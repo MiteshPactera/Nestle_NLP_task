@@ -1,0 +1,101 @@
+English_Queries,Entities,time_info_sm,time_info_md
+get Revenue for Sub_category Shelf Stable in month Mar?,Revenue:Task || Shelf Stable:Sub_Category || ,"[month, Mar]","[month, Mar]"
+fetch Top Line for Sub_category Juice in week Wk25 to Wk38?,Top Line:Task || Juice:Sub_Category || ,[week],[week]
+display Top Line for the Customer Target in year 2019?,Top Line:Task || Target:Customer || ,"[year, 2019]","[year, 2019]"
+fetch Top Line for category Candy in quarter Q1 to Q4?,Top Line:Task || Candy:Category || ,"[quarter, Q1]","[quarter, Q1]"
+generate Max Shipment for the Customer Albertsons/Safeway in quarter Q1?,Max Shipment:Task || Albertsons/Safeway:Customer || ,"[quarter, Q1]","[quarter, Q1]"
+get Count for the Customer Dollar General in year 2019?,Count:Task || Dollar General:Customer || ,"[year, 2019]","[year, 2019]"
+get Top Line for Sub_category Ketchup in year 2019?,Top Line:Task || Ketchup:Sub_Category || ,"[year, 2019]","[year, 2019]"
+fetch Net sales for category Cheese in week Wk24 to Wk44?,Net sales:Task || Cheese:Category || ,[week],[week]
+generate Revenue for the Customer Costco in month Aug?,Revenue:Task || Costco:Customer || ,"[month, Aug]","[month, Aug]"
+get Count for Sub_category Juice in quarter Q2 to Q4?,Count:Task || Juice:Sub_Category || ,[],"[quarter, Q2]"
+get Gross Sales for category Candy in quarter Q2?,Gross Sales:Task || Candy:Category || ,[],"[quarter, Q2]"
+display Top Line for category Breakfast in month Mar to Oct?,Top Line:Task || Breakfast:Category || ,"[month, Mar, to, Oct]","[month, Mar, to, Oct]"
+display Top Line for Sub_category Ketchup in month Sep?,Top Line:Task || Ketchup:Sub_Category || ,[],"[month, Sep]"
+display Net sales for category Candy in quarter Q1 to Q4?,Net sales:Task || Candy:Category || ,[],"[quarter, Q1]"
+display Bottom Line for the Customer Ahold in month Apr?,Bottom Line:Task || Ahold:Customer || ,[month],"[month, Apr]"
+display Net sales for category Breakfast in week Wk13 to Wk36?,Net sales:Task || Breakfast:Category || ,[week],[week]
+fetch Count for Sub_category Ketchup in quarter Q4?,Count:Task || Ketchup:Sub_Category || ,"[quarter, Q4]",[quarter]
+get Top Line for category Cheese in month Jan to Sep?,Top Line:Task || Cheese:Category || ,"[month, Jan]","[month, Jan, to, Sep]"
+get Top Line for the Customer Amazon in quarter Q1?,Top Line:Task || Amazon:Customer || ,"[quarter, Q1]","[quarter, Q1]"
+display Count for category Candy in week Wk15 to Wk41?,Count:Task || Candy:Category || ,[week],[week]
+generate Top Line for the Customer Albertsons/Safeway in week Wk9?,Top Line:Task || Albertsons/Safeway:Customer || ,"[week, Wk9]",[week]
+get Max Shipment for the Customer Albertsons/Safeway in week Wk7 to Wk41?,Max Shipment:Task || Albertsons/Safeway:Customer || ,"[week, Wk7]",[week]
+fetch Top Line for category Cheese in month Jan?,Top Line:Task || Cheese:Category || ,"[month, Jan]","[month, Jan]"
+display Net sales for Sub_category Ketchup in year 2019?,Net sales:Task || Ketchup:Sub_Category || ,"[year, 2019]","[year, 2019]"
+fetch Max Shipment for Sub_category Hot Dogs in month May?,Max Shipment:Task || Hot Dogs:Sub_Category || ,"[month, May]","[month, May]"
+fetch Bottom Line for Sub_category Hard in week Wk7 to Wk47?,Bottom Line:Task || Hard:Sub_Category || ,"[week, Wk7]",[week]
+display Max Shipment for the Customer UNIFI in quarter Q2?,Max Shipment:Task || UNIFI:Customer || ,"[quarter, Q2]","[quarter, Q2]"
+display Top Line for the Customer UNIFI in year 2019?,Top Line:Task || UNIFI:Customer || ,"[year, 2019]","[year, 2019]"
+get Bottom Line for the Customer Walmart in week Wk36?,Bottom Line:Task || Walmart:Customer || ,[week],[week]
+generate Gross Sales for Sub_category Tea in quarter Q1 to Q4?,Gross Sales:Task || Tea:Sub_Category || ,"[quarter, Q1]","[quarter, Q1]"
+fetch Bottom Line for Sub_category Caramels in quarter Q3?,Bottom Line:Task || Caramels:Sub_Category || ,"[quarter, Q3]","[quarter, Q3]"
+generate Gross Sales for the Customer Target in month May to Sep?,Gross Sales:Task || Target:Customer || ,"[month, May]","[May, to, Sep]"
+get Bottom Line for category Breakfast in year 2019?,Bottom Line:Task || Breakfast:Category || ,"[year, 2019]","[year, 2019]"
+fetch Bottom Line for the Customer Target in week Wk5 to Wk52?,Bottom Line:Task || Target:Customer || ,"[week, Wk5]",[week]
+get Revenue for Sub_category Juice in week Wk21?,Revenue:Task || Juice:Sub_Category || ,"[week, Wk21]",[week]
+fetch Bottom Line for Sub_category Cold Cuts in month May to Nov?,Bottom Line:Task || Cold Cuts:Sub_Category || ,"[month, May, to, Nov]","[month, May, to, Nov]"
+display Top Line for category Cheese in week Wk32?,Top Line:Task || Cheese:Category || ,[week],[]
+get Bottom Line for Sub_category Coffee in quarter Q1 to Q4?,Bottom Line:Task || Coffee:Sub_Category || ,[],"[quarter, Q1]"
+get Top Line for Sub_category Hard in month Nov?,Top Line:Task || Hard:Sub_Category || ,"[month, Nov]","[month, Nov]"
+generate Gross Sales for category Breakfast in year 2019?,Gross Sales:Task || Breakfast:Category || ,"[year, 2019]","[year, 2019]"
+get Gross Sales for Sub_category Coffee in month Feb?,Gross Sales:Task || Coffee:Sub_Category || ,"[month, Feb]","[month, Feb]"
+generate Top Line for Sub_category Bacon in year 2019?,Top Line:Task || Bacon:Sub_Category || ,"[year, 2019]","[year, 2019]"
+fetch Count for the Customer Kroger in year 2019?,Count:Task || Kroger:Customer || ,"[year, 2019]","[year, 2019]"
+get Count for the Customer Costco in quarter Q1 to Q4?,Count:Task || Costco:Customer || ,[],"[quarter, Q1]"
+get Top Line for the Customer Dollar General in month Jul?,Top Line:Task || Dollar General:Customer || ,[month],"[month, Jul]"
+fetch Gross Sales for the Customer Publix in week Wk15 to Wk48?,Gross Sales:Task || Publix:Customer || ,[week],[week]
+generate Count for Sub_category Mayonaise in quarter Q2?,Count:Task || Mayonaise:Sub_Category || ,"[quarter, Q2]","[quarter, Q2]"
+fetch Top Line for the Customer Albertsons/Safeway in month Jan to Oct?,Top Line:Task || Albertsons/Safeway:Customer || ,"[month, Jan, to, Oct]","[month, Jan, to, Oct]"
+display Net sales for Sub_category Ketchup in month Jul?,Net sales:Task || Ketchup:Sub_Category || ,[month],"[month, Jul]"
+display Net sales for the Customer UNIFI in quarter Q1 to Q4?,Net sales:Task || UNIFI:Customer || ,[],"[quarter, Q1]"
+fetch Gross Sales for the Customer Kroger in week Wk14?,Gross Sales:Task || Kroger:Customer || ,"[week, Wk14]",[week]
+get Net sales for the Customer Costco in quarter Q2 to Q4?,Net sales:Task || Costco:Customer || ,[],"[quarter, Q2]"
+display Bottom Line for the Customer Dollar General in week Wk37?,Bottom Line:Task || Dollar General:Customer || ,[week],[week]
+generate Net sales for the Customer Walmart in month Apr to Oct?,Net sales:Task || Walmart:Customer || ,[],"[month, Apr, to, Oct]"
+get Count for Sub_category Hard in year 2019?,Count:Task || Hard:Sub_Category || ,"[year, 2019]","[year, 2019]"
+fetch Bottom Line for Sub_category Bars/Snacks in quarter Q2 to Q4?,Bottom Line:Task || Bars/Snacks:Sub_Category || ,[],"[quarter, Q2]"
+display Top Line for Sub_category Hot Dogs in quarter Q4?,Top Line:Task || Hot Dogs:Sub_Category || ,"[quarter, Q4]",[quarter]
+display Max Shipment for Sub_category Natural Cheese in month Feb to Sep?,Max Shipment:Task || Natural Cheese:Sub_Category || ,[month],"[month, Feb, to, Sep]"
+generate Gross Sales for the Customer Walmart in month Dec?,Gross Sales:Task || Walmart:Customer || ,[month],"[month, Dec]"
+display Revenue for the Customer Dollar General in month Mar to Nov?,Revenue:Task || Dollar General:Customer || ,[month],"[month, Mar, to, Nov]"
+get Net sales for the Customer Dollar General in year 2019?,Net sales:Task || Dollar General:Customer || ,"[year, 2019]","[year, 2019]"
+fetch Count for the Customer Kroger in year 2019?,Count:Task || Kroger:Customer || ,"[year, 2019]","[year, 2019]"
+get Bottom Line for category Candy in week Wk7?,Bottom Line:Task || Candy:Category || ,"[week, Wk7]",[week]
+generate Gross Sales for the Customer Albertsons/Safeway in year 2019?,Gross Sales:Task || Albertsons/Safeway:Customer || ,"[year, 2019]","[year, 2019]"
+display Top Line for the Customer Amazon in year 2019?,Top Line:Task || Amazon:Customer || ,"[year, 2019]","[year, 2019]"
+fetch Bottom Line for category Sauces in month Feb to Nov?,Bottom Line:Task || Sauces:Category || ,[month],"[month, Feb, to, Nov]"
+display Max Shipment for category Breakfast in quarter Q3?,Max Shipment:Task || Breakfast:Category || ,[],[quarter]
+get Gross Sales for Sub_category Processed Cheese in quarter Q1 to Q4?,Gross Sales:Task || Processed Cheese:Sub_Category || ,[],"[quarter, Q1]"
+display Count for category Candy in week Wk9?,Count:Task || Candy:Category || ,"[week, Wk9]",[week]
+generate Revenue for the Customer Albertsons/Safeway in month Mar to Dec?,Revenue:Task || Albertsons/Safeway:Customer || ,[month],"[month, Mar, to, Dec]"
+get Top Line for the Customer Albertsons/Safeway in year 2019?,Top Line:Task || Albertsons/Safeway:Customer || ,"[year, 2019]","[year, 2019]"
+display Count for category Cheese in month Jun to Aug?,Count:Task || Cheese:Category || ,[],"[month, Jun, to, Aug]"
+generate Revenue for Sub_category Mayonaise in year 2019?,Revenue:Task || Mayonaise:Sub_Category || ,"[year, 2019]","[year, 2019]"
+display Max Shipment for Sub_category Hot Dogs in month Mar to Nov?,Max Shipment:Task || Hot Dogs:Sub_Category || ,"[month, Mar, to, Nov]","[month, Mar, to, Nov]"
+display Max Shipment for category Candy in month Feb?,Max Shipment:Task || Candy:Category || ,[month],"[month, Feb]"
+fetch Net sales for Sub_category Hard in quarter Q1 to Q4?,Net sales:Task || Hard:Sub_Category || ,[],"[quarter, Q1]"
+generate Max Shipment for Sub_category BBQ in year 2019?,Max Shipment:Task || BBQ:Sub_Category || ,"[year, 2019]","[year, 2019]"
+fetch Revenue for Sub_category Bars/Snacks in month Mar to Aug?,Revenue:Task || Bars/Snacks:Sub_Category || ,[month],"[month, Mar, to, Aug]"
+display Bottom Line for category Sauces in year 2019?,Bottom Line:Task || Sauces:Category || ,"[year, 2019]","[year, 2019]"
+get Bottom Line for Sub_category Grated in week Wk19 to Wk50?,Bottom Line:Task || Grated:Sub_Category || ,[week],[week]
+get Gross Sales for Sub_category Chocolate in quarter Q2?,Gross Sales:Task || Chocolate:Sub_Category || ,"[quarter, Q2]","[quarter, Q2]"
+get Gross Sales for category Sauces in month Feb to Nov?,Gross Sales:Task || Sauces:Category || ,[month],"[month, Feb, to, Nov]"
+fetch Count for the Customer Costco in year 2019?,Count:Task || Costco:Customer || ,"[year, 2019]","[year, 2019]"
+generate Max Shipment for Sub_category Bars/Snacks in week Wk24 to Wk32?,Max Shipment:Task || Bars/Snacks:Sub_Category || ,[week],[week]
+generate Gross Sales for Sub_category Processed Cheese in week Wk34?,Gross Sales:Task || Processed Cheese:Sub_Category || ,[week],[week]
+display Gross Sales for Sub_category Shelf Stable in quarter Q1 to Q4?,Gross Sales:Task || Shelf Stable:Sub_Category || ,[],"[quarter, Q1]"
+generate Top Line for the Customer UNIFI in quarter Q1?,Top Line:Task || UNIFI:Customer || ,"[quarter, Q1]","[quarter, Q1]"
+generate Count for Sub_category Hot Dogs in quarter Q2 to Q4?,Count:Task || Hot Dogs:Sub_Category || ,[],"[quarter, Q2]"
+fetch Count for the Customer Costco in week Wk14?,Count:Task || Costco:Customer || ,"[week, Wk14]",[week]
+generate Gross Sales for the Customer Kroger in year 2019?,Gross Sales:Task || Kroger:Customer || ,"[year, 2019]","[year, 2019]"
+display Net sales for the Customer Publix in year 2019?,Net sales:Task || Publix:Customer || ,"[year, 2019]","[year, 2019]"
+get Net sales for the Customer Albertsons/Safeway in week Wk21 to Wk33?,Net sales:Task || Albertsons/Safeway:Customer || ,"[week, Wk21]",[week]
+display Top Line for Sub_category Processed Cheese in year 2019?,Top Line:Task || Processed Cheese:Sub_Category || ,"[year, 2019]","[year, 2019]"
+display Revenue for the Customer Ahold in year 2019?,Revenue:Task || Ahold:Customer || ,"[year, 2019]","[year, 2019]"
+display Gross Sales for Sub_category Bacon in year 2019?,Gross Sales:Task || Bacon:Sub_Category || ,"[year, 2019]","[year, 2019]"
+display Net sales for the Customer Aldi in quarter Q1 to Q4?,Net sales:Task || Aldi:Customer || ,[],"[quarter, Q1]"
+generate Count for Sub_category Enhancers in month Aug?,Count:Task || Enhancers:Sub_Category || ,"[month, Aug]","[month, Aug]"
+display Revenue for category Cheese in month Apr to Sep?,Revenue:Task || Cheese:Category || ,[month],"[month, Apr, to, Sep]"
+generate Gross Sales for the Customer Dollar General in month Sep?,Gross Sales:Task || Dollar General:Customer || ,[month],"[month, Sep]"
+fetch Count for the Customer Dollar General in year 2019?,Count:Task || Dollar General:Customer || ,"[year, 2019]","[year, 2019]"

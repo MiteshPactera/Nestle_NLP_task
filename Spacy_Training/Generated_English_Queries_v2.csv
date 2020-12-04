@@ -1,0 +1,1001 @@
+English_Queries,Task,Category,Sub_Category,Customer
+generate Revenue for category Meats in month Mar?,Revenue,Meats,NA,NA
+generate Count for Sub_category Coffee in month Jun to Nov?,Count,NA,Coffee,NA
+get Top Line for the Customer Dollar General in week Wk52?,Top Line,NA,NA,Dollar General
+fetch Gross Sales for category Cheese in month Jan to Sep?,Gross Sales,Cheese,NA,NA
+fetch Count for the Customer Amazon in month Nov?,Count,NA,NA,Amazon
+display Count for Sub_category Cold Cuts in week Wk1 to Wk35?,Count,NA,Cold Cuts,NA
+get Bottom Line for Sub_category All others in month Apr?,Bottom Line,NA,All others,NA
+generate Max Shipment for category Cheese in quarter Q2 to Q4?,Max Shipment,Cheese,NA,NA
+get Count for category Breakfast in month May?,Count,Breakfast,NA,NA
+fetch Max Shipment for Sub_category Tea in year 2019?,Max Shipment,NA,Tea,NA
+display Top Line for Sub_category Coffee in quarter Q4?,Top Line,NA,Coffee,NA
+generate Revenue for Sub_category Bars/Snacks in year 2019?,Revenue,NA,Bars/Snacks,NA
+display Count for category Meats in year 2019?,Count,Meats,NA,NA
+display Revenue for the Customer Kroger in month Mar to Nov?,Revenue,NA,NA,Kroger
+generate Top Line for Sub_category Processed Cheese in month May?,Top Line,NA,Processed Cheese,NA
+display Count for the Customer Kroger in year 2019?,Count,NA,NA,Kroger
+display Gross Sales for category Breakfast in week Wk37?,Gross Sales,Breakfast,NA,NA
+fetch Revenue for category Breakfast in year 2019?,Revenue,Breakfast,NA,NA
+display Net sales for the Customer Walmart in week Wk17?,Net sales,NA,NA,Walmart
+get Revenue for Sub_category Enhancers in week Wk19 to Wk52?,Revenue,NA,Enhancers,NA
+get Gross Sales for category Meats in week Wk40?,Gross Sales,Meats,NA,NA
+display Count for the Customer Ahold in month Mar to Sep?,Count,NA,NA,Ahold
+generate Bottom Line for Sub_category Chocolate in week Wk48?,Bottom Line,NA,Chocolate,NA
+display Net sales for the Customer Kroger in week Wk21 to Wk40?,Net sales,NA,NA,Kroger
+get Gross Sales for category Sauces in quarter Q3?,Gross Sales,Sauces,NA,NA
+display Revenue for category Sauces in quarter Q1 to Q4?,Revenue,Sauces,NA,NA
+display Net sales for Sub_category Coffee in quarter Q1?,Net sales,NA,Coffee,NA
+get Bottom Line for the Customer Dollar General in quarter Q1 to Q4?,Bottom Line,NA,NA,Dollar General
+get Max Shipment for category Cheese in year 2019?,Max Shipment,Cheese,NA,NA
+display Net sales for the Customer Kroger in week Wk19 to Wk39?,Net sales,NA,NA,Kroger
+get Net sales for category Candy in year 2019?,Net sales,Candy,NA,NA
+fetch Count for Sub_category Processed Cheese in year 2019?,Count,NA,Processed Cheese,NA
+get Revenue for the Customer Kroger in month Feb?,Revenue,NA,NA,Kroger
+display Top Line for Sub_category Coffee in week Wk25 to Wk40?,Top Line,NA,Coffee,NA
+fetch Top Line for category Meats in week Wk26?,Top Line,Meats,NA,NA
+get Net sales for category Breakfast in quarter Q2 to Q4?,Net sales,Breakfast,NA,NA
+generate Bottom Line for category Sauces in month Jul?,Bottom Line,Sauces,NA,NA
+get Max Shipment for the Customer Walmart in month Apr to Sep?,Max Shipment,NA,NA,Walmart
+display Bottom Line for Sub_category Creamers in month Jun?,Bottom Line,NA,Creamers,NA
+generate Gross Sales for the Customer Ahold in week Wk21 to Wk35?,Gross Sales,NA,NA,Ahold
+generate Count for the Customer Ahold in year 2019?,Count,NA,NA,Ahold
+fetch Bottom Line for the Customer Target in year 2019?,Bottom Line,NA,NA,Target
+get Revenue for category Breakfast in quarter Q4?,Revenue,Breakfast,NA,NA
+fetch Top Line for category Cheese in month Feb to Oct?,Top Line,Cheese,NA,NA
+display Gross Sales for category Sauces in week Wk28?,Gross Sales,Sauces,NA,NA
+get Revenue for the Customer Dollar General in year 2019?,Revenue,NA,NA,Dollar General
+display Net sales for the Customer Costco in month Jan?,Net sales,NA,NA,Costco
+fetch Net sales for the Customer Ahold in quarter Q2 to Q4?,Net sales,NA,NA,Ahold
+generate Revenue for the Customer Costco in quarter Q3?,Revenue,NA,NA,Costco
+fetch Gross Sales for Sub_category Enhancers in week Wk25 to Wk30?,Gross Sales,NA,Enhancers,NA
+get Top Line for the Customer Ahold in quarter Q3?,Top Line,NA,NA,Ahold
+display Revenue for the Customer UNIFI in year 2019?,Revenue,NA,NA,UNIFI
+fetch Top Line for category Candy in month Aug?,Top Line,Candy,NA,NA
+generate Top Line for Sub_category Ketchup in year 2019?,Top Line,NA,Ketchup,NA
+fetch Net sales for Sub_category Bacon in month Mar?,Net sales,NA,Bacon,NA
+display Top Line for the Customer UNIFI in month May to Dec?,Top Line,NA,NA,UNIFI
+fetch Top Line for Sub_category Gelatin in year 2019?,Top Line,NA,Gelatin,NA
+display Top Line for Sub_category All others in quarter Q2 to Q4?,Top Line,NA,All others,NA
+display Bottom Line for the Customer Costco in year 2019?,Bottom Line,NA,NA,Costco
+fetch Bottom Line for Sub_category Shelf Stable in year 2019?,Bottom Line,NA,Shelf Stable,NA
+fetch Max Shipment for Sub_category Caramels in week Wk19?,Max Shipment,NA,Caramels,NA
+generate Revenue for the Customer UNIFI in week Wk2 to Wk44?,Revenue,NA,NA,UNIFI
+generate Max Shipment for category Cheese in month Aug?,Max Shipment,Cheese,NA,NA
+get Gross Sales for Sub_category Tea in month Jun to Dec?,Gross Sales,NA,Tea,NA
+display Top Line for the Customer Albertsons/Safeway in week Wk48?,Top Line,NA,NA,Albertsons/Safeway
+generate Net sales for category Breakfast in quarter Q2 to Q4?,Net sales,Breakfast,NA,NA
+generate Revenue for the Customer Kroger in month Jan?,Revenue,NA,NA,Kroger
+display Max Shipment for Sub_category Tea in month Jun to Oct?,Max Shipment,NA,Tea,NA
+fetch Gross Sales for category Sauces in month Dec?,Gross Sales,Sauces,NA,NA
+generate Top Line for category Sauces in year 2019?,Top Line,Sauces,NA,NA
+get Gross Sales for the Customer Dollar General in month Mar?,Gross Sales,NA,NA,Dollar General
+fetch Net sales for the Customer Walmart in year 2019?,Net sales,NA,NA,Walmart
+get Top Line for category Meats in year 2019?,Top Line,Meats,NA,NA
+fetch Bottom Line for the Customer Dollar General in year 2019?,Bottom Line,NA,NA,Dollar General
+fetch Bottom Line for the Customer Publix in quarter Q2?,Bottom Line,NA,NA,Publix
+fetch Max Shipment for the Customer Target in week Wk3 to Wk40?,Max Shipment,NA,NA,Target
+display Count for the Customer Amazon in month Jan?,Count,NA,NA,Amazon
+display Revenue for the Customer Albertsons/Safeway in month Apr to Dec?,Revenue,NA,NA,Albertsons/Safeway
+display Net sales for Sub_category BBQ in year 2019?,Net sales,NA,BBQ,NA
+get Max Shipment for category Sauces in week Wk17 to Wk30?,Max Shipment,Sauces,NA,NA
+display Gross Sales for the Customer Aldi in quarter Q3?,Gross Sales,NA,NA,Aldi
+display Net sales for Sub_category Natural Cheese in year 2019?,Net sales,NA,Natural Cheese,NA
+get Revenue for the Customer Amazon in month Jun?,Revenue,NA,NA,Amazon
+fetch Count for category Cheese in week Wk13 to Wk48?,Count,Cheese,NA,NA
+get Revenue for Sub_category Hard in quarter Q4?,Revenue,NA,Hard,NA
+generate Net sales for Sub_category Shelf Stable in quarter Q1 to Q4?,Net sales,NA,Shelf Stable,NA
+fetch Max Shipment for Sub_category Chocolate in month Sep?,Max Shipment,NA,Chocolate,NA
+generate Max Shipment for the Customer Dollar General in quarter Q2 to Q4?,Max Shipment,NA,NA,Dollar General
+generate Revenue for Sub_category Hot Dogs in week Wk21?,Revenue,NA,Hot Dogs,NA
+get Revenue for Sub_category Hot Dogs in week Wk19 to Wk47?,Revenue,NA,Hot Dogs,NA
+generate Net sales for the Customer Kroger in month Sep?,Net sales,NA,NA,Kroger
+fetch Count for Sub_category Shelf Stable in quarter Q1 to Q4?,Count,NA,Shelf Stable,NA
+generate Max Shipment for Sub_category Chocolate in week Wk21?,Max Shipment,NA,Chocolate,NA
+generate Count for category Cheese in month Jan to Aug?,Count,Cheese,NA,NA
+generate Net sales for category Sauces in week Wk40?,Net sales,Sauces,NA,NA
+fetch Net sales for the Customer Target in quarter Q1 to Q4?,Net sales,NA,NA,Target
+get Revenue for Sub_category Natural Cheese in week Wk34?,Revenue,NA,Natural Cheese,NA
+fetch Net sales for Sub_category Cold Cuts in quarter Q1 to Q4?,Net sales,NA,Cold Cuts,NA
+display Max Shipment for category Cheese in year 2019?,Max Shipment,Cheese,NA,NA
+get Bottom Line for the Customer Costco in year 2019?,Bottom Line,NA,NA,Costco
+fetch Gross Sales for Sub_category Creamers in week Wk42?,Gross Sales,NA,Creamers,NA
+fetch Gross Sales for category Cheese in week Wk23 to Wk41?,Gross Sales,Cheese,NA,NA
+generate Bottom Line for Sub_category Cold Cuts in quarter Q3?,Bottom Line,NA,Cold Cuts,NA
+fetch Count for Sub_category Bars/Snacks in week Wk8 to Wk47?,Count,NA,Bars/Snacks,NA
+display Revenue for Sub_category Bacon in week Wk30?,Revenue,NA,Bacon,NA
+get Revenue for the Customer Dollar General in quarter Q2 to Q4?,Revenue,NA,NA,Dollar General
+generate Bottom Line for Sub_category Chocolate in week Wk52?,Bottom Line,NA,Chocolate,NA
+generate Count for Sub_category Coffee in year 2019?,Count,NA,Coffee,NA
+display Gross Sales for Sub_category Ketchup in month Apr?,Gross Sales,NA,Ketchup,NA
+generate Net sales for the Customer Target in month Mar to Dec?,Net sales,NA,NA,Target
+display Count for category Cheese in week Wk18?,Count,Cheese,NA,NA
+fetch Net sales for category Sauces in month Feb to Oct?,Net sales,Sauces,NA,NA
+get Gross Sales for the Customer Amazon in week Wk27?,Gross Sales,NA,NA,Amazon
+get Bottom Line for the Customer UNIFI in week Wk4 to Wk34?,Bottom Line,NA,NA,UNIFI
+fetch Net sales for the Customer Amazon in week Wk18?,Net sales,NA,NA,Amazon
+display Net sales for category Sauces in year 2019?,Net sales,Sauces,NA,NA
+get Bottom Line for the Customer Publix in quarter Q4?,Bottom Line,NA,NA,Publix
+generate Count for category Meats in week Wk22 to Wk34?,Count,Meats,NA,NA
+generate Gross Sales for the Customer Dollar General in week Wk28?,Gross Sales,NA,NA,Dollar General
+display Max Shipment for category Sauces in year 2019?,Max Shipment,Sauces,NA,NA
+generate Gross Sales for category Candy in month Jul?,Gross Sales,Candy,NA,NA
+get Max Shipment for the Customer Kroger in week Wk3 to Wk49?,Max Shipment,NA,NA,Kroger
+display Net sales for Sub_category Processed Cheese in quarter Q1?,Net sales,NA,Processed Cheese,NA
+display Bottom Line for the Customer Publix in week Wk7 to Wk44?,Bottom Line,NA,NA,Publix
+get Revenue for Sub_category Gelatin in year 2019?,Revenue,NA,Gelatin,NA
+display Max Shipment for Sub_category Grated in year 2019?,Max Shipment,NA,Grated,NA
+display Net sales for the Customer Walmart in quarter Q1?,Net sales,NA,NA,Walmart
+display Bottom Line for Sub_category Specialty Meats in year 2019?,Bottom Line,NA,Specialty Meats,NA
+fetch Gross Sales for the Customer Kroger in year 2019?,Gross Sales,NA,NA,Kroger
+display Bottom Line for Sub_category Coffee in year 2019?,Bottom Line,NA,Coffee,NA
+generate Top Line for category Breakfast in month May?,Top Line,Breakfast,NA,NA
+fetch Max Shipment for Sub_category Hot Dogs in week Wk20 to Wk38?,Max Shipment,NA,Hot Dogs,NA
+fetch Max Shipment for Sub_category Cold Cuts in quarter Q3?,Max Shipment,NA,Cold Cuts,NA
+get Gross Sales for Sub_category BBQ in quarter Q1 to Q4?,Gross Sales,NA,BBQ,NA
+get Revenue for the Customer Ahold in week Wk2?,Revenue,NA,NA,Ahold
+fetch Gross Sales for the Customer Dollar General in week Wk12 to Wk41?,Gross Sales,NA,NA,Dollar General
+display Bottom Line for Sub_category Mayonaise in month Jan?,Bottom Line,NA,Mayonaise,NA
+display Gross Sales for category Breakfast in quarter Q1 to Q4?,Gross Sales,Breakfast,NA,NA
+fetch Bottom Line for the Customer Albertsons/Safeway in quarter Q4?,Bottom Line,NA,NA,Albertsons/Safeway
+display Gross Sales for Sub_category Enhancers in year 2019?,Gross Sales,NA,Enhancers,NA
+get Max Shipment for the Customer Costco in month Jun?,Max Shipment,NA,NA,Costco
+display Revenue for category Meats in week Wk16 to Wk29?,Revenue,Meats,NA,NA
+fetch Top Line for the Customer Albertsons/Safeway in year 2019?,Top Line,NA,NA,Albertsons/Safeway
+fetch Gross Sales for category Breakfast in month Feb to Nov?,Gross Sales,Breakfast,NA,NA
+generate Count for category Meats in quarter Q4?,Count,Meats,NA,NA
+get Net sales for category Cheese in week Wk24 to Wk49?,Net sales,Cheese,NA,NA
+generate Gross Sales for Sub_category Caramels in month Jun?,Gross Sales,NA,Caramels,NA
+fetch Net sales for Sub_category Tea in month Jun to Dec?,Net sales,NA,Tea,NA
+display Net sales for Sub_category Creamers in week Wk14?,Net sales,NA,Creamers,NA
+fetch Revenue for category Candy in month Feb to Nov?,Revenue,Candy,NA,NA
+get Max Shipment for the Customer Amazon in week Wk2?,Max Shipment,NA,NA,Amazon
+get Gross Sales for Sub_category BBQ in week Wk7 to Wk46?,Gross Sales,NA,BBQ,NA
+fetch Max Shipment for Sub_category Hard in week Wk49?,Max Shipment,NA,Hard,NA
+generate Net sales for Sub_category Cold Cuts in week Wk14 to Wk39?,Net sales,NA,Cold Cuts,NA
+generate Gross Sales for category Sauces in week Wk34?,Gross Sales,Sauces,NA,NA
+fetch Revenue for the Customer Aldi in quarter Q2 to Q4?,Revenue,NA,NA,Aldi
+fetch Max Shipment for Sub_category Hard in month Feb?,Max Shipment,NA,Hard,NA
+fetch Count for Sub_category Ketchup in month Jun to Sep?,Count,NA,Ketchup,NA
+generate Gross Sales for the Customer UNIFI in year 2019?,Gross Sales,NA,NA,UNIFI
+generate Net sales for category Meats in quarter Q2 to Q4?,Net sales,Meats,NA,NA
+display Bottom Line for Sub_category Coffee in year 2019?,Bottom Line,NA,Coffee,NA
+fetch Bottom Line for the Customer Kroger in week Wk13 to Wk43?,Bottom Line,NA,NA,Kroger
+display Bottom Line for the Customer Walmart in quarter Q3?,Bottom Line,NA,NA,Walmart
+fetch Gross Sales for category Breakfast in quarter Q2 to Q4?,Gross Sales,Breakfast,NA,NA
+display Gross Sales for category Sauces in week Wk21?,Gross Sales,Sauces,NA,NA
+get Net sales for Sub_category Coffee in year 2019?,Net sales,NA,Coffee,NA
+fetch Gross Sales for category Sauces in month Jan?,Gross Sales,Sauces,NA,NA
+generate Gross Sales for the Customer Kroger in quarter Q1 to Q4?,Gross Sales,NA,NA,Kroger
+fetch Top Line for Sub_category Bars/Snacks in year 2019?,Top Line,NA,Bars/Snacks,NA
+generate Gross Sales for category Sauces in quarter Q1 to Q4?,Gross Sales,Sauces,NA,NA
+get Net sales for Sub_category Enhancers in month Jul?,Net sales,NA,Enhancers,NA
+display Max Shipment for category Meats in year 2019?,Max Shipment,Meats,NA,NA
+get Count for Sub_category Bacon in year 2019?,Count,NA,Bacon,NA
+generate Gross Sales for category Cheese in quarter Q1 to Q4?,Gross Sales,Cheese,NA,NA
+fetch Bottom Line for the Customer UNIFI in month Feb?,Bottom Line,NA,NA,UNIFI
+get Bottom Line for Sub_category Juice in year 2019?,Bottom Line,NA,Juice,NA
+display Bottom Line for category Candy in quarter Q1?,Bottom Line,Candy,NA,NA
+generate Top Line for Sub_category Mayonaise in month Mar to Nov?,Top Line,NA,Mayonaise,NA
+get Bottom Line for the Customer Publix in week Wk44?,Bottom Line,NA,NA,Publix
+get Net sales for Sub_category Shelf Stable in week Wk16 to Wk28?,Net sales,NA,Shelf Stable,NA
+generate Top Line for Sub_category Mayonaise in week Wk27?,Top Line,NA,Mayonaise,NA
+fetch Bottom Line for Sub_category Grated in quarter Q2 to Q4?,Bottom Line,NA,Grated,NA
+get Gross Sales for category Cheese in month Aug?,Gross Sales,Cheese,NA,NA
+fetch Gross Sales for the Customer Costco in quarter Q1 to Q4?,Gross Sales,NA,NA,Costco
+display Count for the Customer UNIFI in quarter Q3?,Count,NA,NA,UNIFI
+fetch Count for the Customer Aldi in quarter Q2 to Q4?,Count,NA,NA,Aldi
+get Revenue for the Customer Amazon in week Wk46?,Revenue,NA,NA,Amazon
+display Top Line for category Meats in quarter Q1 to Q4?,Top Line,Meats,NA,NA
+display Count for Sub_category Hard in year 2019?,Count,NA,Hard,NA
+fetch Bottom Line for the Customer Dollar General in month Mar to Aug?,Bottom Line,NA,NA,Dollar General
+generate Max Shipment for category Meats in week Wk46?,Max Shipment,Meats,NA,NA
+generate Net sales for Sub_category Bacon in month Feb to Nov?,Net sales,NA,Bacon,NA
+fetch Net sales for the Customer UNIFI in year 2019?,Net sales,NA,NA,UNIFI
+generate Revenue for the Customer Publix in year 2019?,Revenue,NA,NA,Publix
+get Max Shipment for the Customer Ahold in year 2019?,Max Shipment,NA,NA,Ahold
+generate Net sales for Sub_category Ketchup in week Wk18 to Wk33?,Net sales,NA,Ketchup,NA
+display Top Line for the Customer Ahold in year 2019?,Top Line,NA,NA,Ahold
+display Top Line for category Cheese in month Jun to Sep?,Top Line,Cheese,NA,NA
+generate Max Shipment for Sub_category Hard in week Wk52?,Max Shipment,NA,Hard,NA
+display Max Shipment for Sub_category Hard in week Wk2 to Wk36?,Max Shipment,NA,Hard,NA
+display Gross Sales for Sub_category Natural Cheese in quarter Q1?,Gross Sales,NA,Natural Cheese,NA
+get Top Line for Sub_category Natural Cheese in month Apr to Sep?,Top Line,NA,Natural Cheese,NA
+fetch Count for Sub_category Juice in quarter Q4?,Count,NA,Juice,NA
+display Count for category Breakfast in year 2019?,Count,Breakfast,NA,NA
+get Count for category Sauces in quarter Q1?,Count,Sauces,NA,NA
+display Top Line for Sub_category Enhancers in month Mar to Aug?,Top Line,NA,Enhancers,NA
+get Count for category Breakfast in quarter Q4?,Count,Breakfast,NA,NA
+display Top Line for category Candy in year 2019?,Top Line,Candy,NA,NA
+display Net sales for category Candy in year 2019?,Net sales,Candy,NA,NA
+generate Top Line for the Customer Aldi in week Wk1 to Wk47?,Top Line,NA,NA,Aldi
+generate Net sales for Sub_category All others in year 2019?,Net sales,NA,All others,NA
+display Net sales for category Candy in quarter Q1 to Q4?,Net sales,Candy,NA,NA
+generate Bottom Line for category Sauces in quarter Q1?,Bottom Line,Sauces,NA,NA
+display Bottom Line for the Customer Publix in month Apr to Aug?,Bottom Line,NA,NA,Publix
+get Net sales for Sub_category Cold Cuts in month Aug?,Net sales,NA,Cold Cuts,NA
+generate Max Shipment for Sub_category Hard in quarter Q1 to Q4?,Max Shipment,NA,Hard,NA
+display Net sales for the Customer UNIFI in week Wk9?,Net sales,NA,NA,UNIFI
+get Max Shipment for the Customer Walmart in quarter Q2 to Q4?,Max Shipment,NA,NA,Walmart
+get Count for category Meats in quarter Q4?,Count,Meats,NA,NA
+generate Revenue for category Candy in year 2019?,Revenue,Candy,NA,NA
+generate Max Shipment for Sub_category Bacon in year 2019?,Max Shipment,NA,Bacon,NA
+display Top Line for the Customer Kroger in month Mar to Aug?,Top Line,NA,NA,Kroger
+get Gross Sales for the Customer Target in year 2019?,Gross Sales,NA,NA,Target
+generate Revenue for category Meats in quarter Q1 to Q4?,Revenue,Meats,NA,NA
+display Bottom Line for category Candy in year 2019?,Bottom Line,Candy,NA,NA
+fetch Top Line for the Customer UNIFI in quarter Q2 to Q4?,Top Line,NA,NA,UNIFI
+get Bottom Line for Sub_category Grated in month Sep?,Bottom Line,NA,Grated,NA
+fetch Top Line for Sub_category Hot Dogs in month Mar to Sep?,Top Line,NA,Hot Dogs,NA
+display Gross Sales for the Customer Ahold in month Nov?,Gross Sales,NA,NA,Ahold
+generate Max Shipment for Sub_category Caramels in month Feb to Sep?,Max Shipment,NA,Caramels,NA
+generate Max Shipment for the Customer Albertsons/Safeway in year 2019?,Max Shipment,NA,NA,Albertsons/Safeway
+generate Count for Sub_category Juice in month May to Oct?,Count,NA,Juice,NA
+get Count for Sub_category Enhancers in week Wk10?,Count,NA,Enhancers,NA
+generate Count for the Customer Albertsons/Safeway in year 2019?,Count,NA,NA,Albertsons/Safeway
+display Net sales for the Customer Publix in month Dec?,Net sales,NA,NA,Publix
+get Count for the Customer Albertsons/Safeway in quarter Q2 to Q4?,Count,NA,NA,Albertsons/Safeway
+display Max Shipment for category Sauces in week Wk11?,Max Shipment,Sauces,NA,NA
+get Max Shipment for Sub_category Ketchup in quarter Q1 to Q4?,Max Shipment,NA,Ketchup,NA
+get Gross Sales for category Breakfast in year 2019?,Gross Sales,Breakfast,NA,NA
+get Net sales for the Customer Costco in year 2019?,Net sales,NA,NA,Costco
+fetch Count for the Customer Amazon in month Aug?,Count,NA,NA,Amazon
+generate Max Shipment for the Customer Target in quarter Q1 to Q4?,Max Shipment,NA,NA,Target
+generate Gross Sales for category Sauces in quarter Q3?,Gross Sales,Sauces,NA,NA
+generate Gross Sales for category Cheese in month May to Sep?,Gross Sales,Cheese,NA,NA
+get Bottom Line for category Meats in month Dec?,Bottom Line,Meats,NA,NA
+fetch Bottom Line for the Customer Albertsons/Safeway in quarter Q1 to Q4?,Bottom Line,NA,NA,Albertsons/Safeway
+get Max Shipment for category Candy in quarter Q4?,Max Shipment,Candy,NA,NA
+generate Revenue for category Sauces in year 2019?,Revenue,Sauces,NA,NA
+fetch Bottom Line for Sub_category Coffee in month May?,Bottom Line,NA,Coffee,NA
+display Top Line for Sub_category All others in quarter Q1 to Q4?,Top Line,NA,All others,NA
+display Top Line for category Breakfast in month Jan?,Top Line,Breakfast,NA,NA
+get Max Shipment for category Sauces in week Wk14 to Wk28?,Max Shipment,Sauces,NA,NA
+get Gross Sales for category Meats in year 2019?,Gross Sales,Meats,NA,NA
+generate Bottom Line for Sub_category Shelf Stable in month Jan to Sep?,Bottom Line,NA,Shelf Stable,NA
+generate Bottom Line for Sub_category Grated in quarter Q2?,Bottom Line,NA,Grated,NA
+get Top Line for category Candy in month Mar to Oct?,Top Line,Candy,NA,NA
+get Revenue for Sub_category Specialty Meats in week Wk9?,Revenue,NA,Specialty Meats,NA
+fetch Net sales for the Customer Target in week Wk18 to Wk27?,Net sales,NA,NA,Target
+get Revenue for category Meats in month Jun?,Revenue,Meats,NA,NA
+fetch Top Line for the Customer Albertsons/Safeway in year 2019?,Top Line,NA,NA,Albertsons/Safeway
+get Gross Sales for the Customer Dollar General in year 2019?,Gross Sales,NA,NA,Dollar General
+fetch Net sales for category Breakfast in week Wk19 to Wk48?,Net sales,Breakfast,NA,NA
+display Top Line for the Customer Costco in week Wk44?,Top Line,NA,NA,Costco
+generate Bottom Line for category Cheese in quarter Q2 to Q4?,Bottom Line,Cheese,NA,NA
+fetch Top Line for Sub_category Tea in month Apr?,Top Line,NA,Tea,NA
+generate Max Shipment for the Customer Aldi in week Wk1 to Wk41?,Max Shipment,NA,NA,Aldi
+display Revenue for category Meats in week Wk41?,Revenue,Meats,NA,NA
+get Gross Sales for Sub_category Shelf Stable in quarter Q1 to Q4?,Gross Sales,NA,Shelf Stable,NA
+fetch Top Line for category Cheese in quarter Q4?,Top Line,Cheese,NA,NA
+get Max Shipment for the Customer Amazon in week Wk8 to Wk47?,Max Shipment,NA,NA,Amazon
+fetch Gross Sales for Sub_category Bars/Snacks in quarter Q4?,Gross Sales,NA,Bars/Snacks,NA
+get Gross Sales for Sub_category Specialty Meats in week Wk11 to Wk32?,Gross Sales,NA,Specialty Meats,NA
+get Bottom Line for category Sauces in year 2019?,Bottom Line,Sauces,NA,NA
+fetch Revenue for category Candy in week Wk14 to Wk39?,Revenue,Candy,NA,NA
+get Revenue for the Customer Dollar General in week Wk14?,Revenue,NA,NA,Dollar General
+fetch Max Shipment for category Sauces in week Wk1 to Wk34?,Max Shipment,Sauces,NA,NA
+display Gross Sales for category Candy in month Jun?,Gross Sales,Candy,NA,NA
+display Count for category Meats in quarter Q1 to Q4?,Count,Meats,NA,NA
+display Gross Sales for Sub_category BBQ in quarter Q2?,Gross Sales,NA,BBQ,NA
+get Top Line for category Breakfast in month Apr to Sep?,Top Line,Breakfast,NA,NA
+get Count for category Cheese in year 2019?,Count,Cheese,NA,NA
+get Count for category Cheese in week Wk7 to Wk34?,Count,Cheese,NA,NA
+fetch Count for the Customer Costco in year 2019?,Count,NA,NA,Costco
+fetch Count for category Breakfast in week Wk16 to Wk49?,Count,Breakfast,NA,NA
+display Bottom Line for Sub_category Caramels in week Wk16?,Bottom Line,NA,Caramels,NA
+generate Net sales for category Cheese in quarter Q2 to Q4?,Net sales,Cheese,NA,NA
+display Max Shipment for category Breakfast in year 2019?,Max Shipment,Breakfast,NA,NA
+display Count for category Cheese in week Wk2 to Wk28?,Count,Cheese,NA,NA
+generate Bottom Line for Sub_category Processed Cheese in week Wk19?,Bottom Line,NA,Processed Cheese,NA
+get Net sales for category Cheese in week Wk16 to Wk36?,Net sales,Cheese,NA,NA
+get Bottom Line for Sub_category Bacon in quarter Q3?,Bottom Line,NA,Bacon,NA
+generate Top Line for the Customer Aldi in quarter Q2 to Q4?,Top Line,NA,NA,Aldi
+fetch Revenue for the Customer Walmart in quarter Q1?,Revenue,NA,NA,Walmart
+fetch Gross Sales for category Breakfast in month May to Oct?,Gross Sales,Breakfast,NA,NA
+fetch Count for the Customer Aldi in year 2019?,Count,NA,NA,Aldi
+fetch Max Shipment for the Customer Aldi in year 2019?,Max Shipment,NA,NA,Aldi
+generate Bottom Line for the Customer Kroger in week Wk42?,Bottom Line,NA,NA,Kroger
+generate Gross Sales for Sub_category Juice in quarter Q1 to Q4?,Gross Sales,NA,Juice,NA
+fetch Revenue for category Cheese in month Nov?,Revenue,Cheese,NA,NA
+generate Net sales for category Candy in quarter Q1 to Q4?,Net sales,Candy,NA,NA
+get Net sales for category Breakfast in quarter Q3?,Net sales,Breakfast,NA,NA
+display Count for Sub_category Mayonaise in week Wk22 to Wk29?,Count,NA,Mayonaise,NA
+display Net sales for the Customer Ahold in week Wk40?,Net sales,NA,NA,Ahold
+display Top Line for category Candy in week Wk15 to Wk31?,Top Line,Candy,NA,NA
+fetch Max Shipment for Sub_category Chocolate in year 2019?,Max Shipment,NA,Chocolate,NA
+fetch Gross Sales for Sub_category Coffee in year 2019?,Gross Sales,NA,Coffee,NA
+get Max Shipment for the Customer Walmart in quarter Q3?,Max Shipment,NA,NA,Walmart
+get Revenue for the Customer Aldi in quarter Q2 to Q4?,Revenue,NA,NA,Aldi
+generate Max Shipment for the Customer Kroger in month Jan?,Max Shipment,NA,NA,Kroger
+display Revenue for category Cheese in week Wk3 to Wk30?,Revenue,Cheese,NA,NA
+display Top Line for the Customer Walmart in month Jun?,Top Line,NA,NA,Walmart
+generate Max Shipment for Sub_category Specialty Meats in week Wk16 to Wk43?,Max Shipment,NA,Specialty Meats,NA
+generate Revenue for the Customer Costco in month Jul?,Revenue,NA,NA,Costco
+fetch Bottom Line for category Sauces in quarter Q1 to Q4?,Bottom Line,Sauces,NA,NA
+generate Top Line for the Customer Ahold in year 2019?,Top Line,NA,NA,Ahold
+display Bottom Line for category Sauces in month Jun to Nov?,Bottom Line,Sauces,NA,NA
+display Revenue for Sub_category Grated in month Jun?,Revenue,NA,Grated,NA
+generate Gross Sales for the Customer Ahold in month Jan to Nov?,Gross Sales,NA,NA,Ahold
+display Bottom Line for category Sauces in week Wk9?,Bottom Line,Sauces,NA,NA
+display Gross Sales for category Candy in month Feb to Dec?,Gross Sales,Candy,NA,NA
+generate Top Line for Sub_category Enhancers in quarter Q3?,Top Line,NA,Enhancers,NA
+generate Revenue for category Sauces in year 2019?,Revenue,Sauces,NA,NA
+display Gross Sales for the Customer Albertsons/Safeway in month Feb?,Gross Sales,NA,NA,Albertsons/Safeway
+get Net sales for Sub_category Grated in year 2019?,Net sales,NA,Grated,NA
+get Top Line for Sub_category Mayonaise in quarter Q1?,Top Line,NA,Mayonaise,NA
+get Max Shipment for Sub_category Specialty Meats in week Wk18 to Wk37?,Max Shipment,NA,Specialty Meats,NA
+generate Count for Sub_category Ketchup in quarter Q2?,Count,NA,Ketchup,NA
+generate Revenue for the Customer Amazon in week Wk14 to Wk40?,Revenue,NA,NA,Amazon
+fetch Max Shipment for Sub_category Hot Dogs in week Wk23?,Max Shipment,NA,Hot Dogs,NA
+get Count for Sub_category Specialty Meats in week Wk12 to Wk37?,Count,NA,Specialty Meats,NA
+fetch Net sales for Sub_category Processed Cheese in month Apr?,Net sales,NA,Processed Cheese,NA
+get Count for Sub_category Creamers in month Apr to Sep?,Count,NA,Creamers,NA
+display Top Line for category Candy in year 2019?,Top Line,Candy,NA,NA
+fetch Count for Sub_category Chocolate in year 2019?,Count,NA,Chocolate,NA
+get Revenue for category Meats in year 2019?,Revenue,Meats,NA,NA
+fetch Bottom Line for category Candy in week Wk10 to Wk33?,Bottom Line,Candy,NA,NA
+generate Max Shipment for category Sauces in year 2019?,Max Shipment,Sauces,NA,NA
+display Bottom Line for the Customer Ahold in year 2019?,Bottom Line,NA,NA,Ahold
+get Revenue for category Candy in month Dec?,Revenue,Candy,NA,NA
+generate Net sales for category Sauces in year 2019?,Net sales,Sauces,NA,NA
+display Top Line for the Customer Publix in month Feb?,Top Line,NA,NA,Publix
+display Net sales for Sub_category Shelf Stable in week Wk21 to Wk43?,Net sales,NA,Shelf Stable,NA
+generate Net sales for Sub_category Ketchup in year 2019?,Net sales,NA,Ketchup,NA
+fetch Count for category Meats in year 2019?,Count,Meats,NA,NA
+get Revenue for Sub_category Coffee in month Dec?,Revenue,NA,Coffee,NA
+display Gross Sales for Sub_category Bacon in year 2019?,Gross Sales,NA,Bacon,NA
+display Revenue for Sub_category Bars/Snacks in year 2019?,Revenue,NA,Bars/Snacks,NA
+fetch Net sales for the Customer Amazon in year 2019?,Net sales,NA,NA,Amazon
+display Net sales for category Sauces in month Jul?,Net sales,Sauces,NA,NA
+fetch Gross Sales for category Candy in month Jun to Aug?,Gross Sales,Candy,NA,NA
+fetch Count for Sub_category Chocolate in quarter Q2?,Count,NA,Chocolate,NA
+fetch Max Shipment for Sub_category Enhancers in year 2019?,Max Shipment,NA,Enhancers,NA
+display Net sales for Sub_category Mayonaise in week Wk4?,Net sales,NA,Mayonaise,NA
+generate Max Shipment for category Sauces in week Wk5 to Wk32?,Max Shipment,Sauces,NA,NA
+display Bottom Line for the Customer Albertsons/Safeway in week Wk2?,Bottom Line,NA,NA,Albertsons/Safeway
+display Top Line for the Customer Amazon in month Apr to Nov?,Top Line,NA,NA,Amazon
+display Count for the Customer Kroger in month Jul?,Count,NA,NA,Kroger
+fetch Count for category Breakfast in quarter Q2 to Q4?,Count,Breakfast,NA,NA
+fetch Gross Sales for Sub_category Bars/Snacks in week Wk11?,Gross Sales,NA,Bars/Snacks,NA
+fetch Max Shipment for the Customer UNIFI in week Wk21 to Wk35?,Max Shipment,NA,NA,UNIFI
+display Revenue for the Customer Albertsons/Safeway in year 2019?,Revenue,NA,NA,Albertsons/Safeway
+get Gross Sales for the Customer Costco in quarter Q2 to Q4?,Gross Sales,NA,NA,Costco
+generate Gross Sales for category Cheese in year 2019?,Gross Sales,Cheese,NA,NA
+display Revenue for Sub_category Ketchup in quarter Q1 to Q4?,Revenue,NA,Ketchup,NA
+display Net sales for Sub_category Coffee in year 2019?,Net sales,NA,Coffee,NA
+get Revenue for the Customer Walmart in year 2019?,Revenue,NA,NA,Walmart
+fetch Gross Sales for the Customer Walmart in quarter Q1?,Gross Sales,NA,NA,Walmart
+generate Count for Sub_category Hot Dogs in quarter Q1 to Q4?,Count,NA,Hot Dogs,NA
+generate Revenue for the Customer Walmart in year 2019?,Revenue,NA,NA,Walmart
+get Gross Sales for Sub_category Chocolate in week Wk10 to Wk43?,Gross Sales,NA,Chocolate,NA
+fetch Net sales for category Sauces in week Wk30?,Net sales,Sauces,NA,NA
+display Max Shipment for category Sauces in year 2019?,Max Shipment,Sauces,NA,NA
+get Gross Sales for Sub_category Bacon in month Jul?,Gross Sales,NA,Bacon,NA
+fetch Count for Sub_category Processed Cheese in week Wk3 to Wk39?,Count,NA,Processed Cheese,NA
+get Gross Sales for Sub_category Creamers in month Jan?,Gross Sales,NA,Creamers,NA
+generate Net sales for Sub_category Grated in year 2019?,Net sales,NA,Grated,NA
+generate Revenue for Sub_category Coffee in quarter Q1?,Revenue,NA,Coffee,NA
+get Gross Sales for Sub_category Juice in week Wk16 to Wk43?,Gross Sales,NA,Juice,NA
+get Top Line for Sub_category Grated in quarter Q2?,Top Line,NA,Grated,NA
+generate Net sales for category Sauces in week Wk25 to Wk41?,Net sales,Sauces,NA,NA
+fetch Top Line for category Cheese in quarter Q3?,Top Line,Cheese,NA,NA
+get Gross Sales for category Sauces in month Jan to Dec?,Gross Sales,Sauces,NA,NA
+display Net sales for the Customer Costco in quarter Q2?,Net sales,NA,NA,Costco
+fetch Gross Sales for Sub_category Caramels in week Wk19 to Wk34?,Gross Sales,NA,Caramels,NA
+fetch Count for the Customer Ahold in quarter Q4?,Count,NA,NA,Ahold
+fetch Revenue for the Customer Albertsons/Safeway in year 2019?,Revenue,NA,NA,Albertsons/Safeway
+fetch Revenue for the Customer Dollar General in week Wk44?,Revenue,NA,NA,Dollar General
+fetch Top Line for the Customer Target in year 2019?,Top Line,NA,NA,Target
+display Gross Sales for category Candy in year 2019?,Gross Sales,Candy,NA,NA
+fetch Revenue for Sub_category Shelf Stable in year 2019?,Revenue,NA,Shelf Stable,NA
+display Revenue for Sub_category Creamers in quarter Q1?,Revenue,NA,Creamers,NA
+get Max Shipment for the Customer Target in year 2019?,Max Shipment,NA,NA,Target
+fetch Revenue for Sub_category Shelf Stable in month Jun?,Revenue,NA,Shelf Stable,NA
+generate Net sales for the Customer Aldi in year 2019?,Net sales,NA,NA,Aldi
+generate Net sales for category Meats in year 2019?,Net sales,Meats,NA,NA
+fetch Count for the Customer UNIFI in quarter Q2 to Q4?,Count,NA,NA,UNIFI
+fetch Bottom Line for Sub_category Cold Cuts in quarter Q1?,Bottom Line,NA,Cold Cuts,NA
+get Bottom Line for Sub_category BBQ in quarter Q1 to Q4?,Bottom Line,NA,BBQ,NA
+display Top Line for category Meats in quarter Q3?,Top Line,Meats,NA,NA
+generate Gross Sales for the Customer Walmart in year 2019?,Gross Sales,NA,NA,Walmart
+generate Net sales for the Customer Albertsons/Safeway in quarter Q4?,Net sales,NA,NA,Albertsons/Safeway
+get Gross Sales for the Customer Walmart in year 2019?,Gross Sales,NA,NA,Walmart
+get Revenue for Sub_category Hot Dogs in year 2019?,Revenue,NA,Hot Dogs,NA
+get Max Shipment for Sub_category Grated in quarter Q2 to Q4?,Max Shipment,NA,Grated,NA
+display Net sales for Sub_category Grated in month Jun?,Net sales,NA,Grated,NA
+get Max Shipment for the Customer Walmart in year 2019?,Max Shipment,NA,NA,Walmart
+generate Bottom Line for category Cheese in year 2019?,Bottom Line,Cheese,NA,NA
+fetch Bottom Line for the Customer Target in month May to Nov?,Bottom Line,NA,NA,Target
+display Top Line for Sub_category Tea in month Jul?,Top Line,NA,Tea,NA
+display Net sales for Sub_category Grated in week Wk15 to Wk37?,Net sales,NA,Grated,NA
+get Revenue for the Customer Ahold in week Wk52?,Revenue,NA,NA,Ahold
+fetch Net sales for Sub_category Hard in week Wk17 to Wk27?,Net sales,NA,Hard,NA
+fetch Top Line for category Candy in year 2019?,Top Line,Candy,NA,NA
+display Revenue for Sub_category Ketchup in quarter Q2 to Q4?,Revenue,NA,Ketchup,NA
+get Revenue for category Breakfast in quarter Q4?,Revenue,Breakfast,NA,NA
+display Net sales for category Cheese in month Jun to Sep?,Net sales,Cheese,NA,NA
+generate Top Line for the Customer Amazon in year 2019?,Top Line,NA,NA,Amazon
+get Revenue for the Customer Ahold in quarter Q2 to Q4?,Revenue,NA,NA,Ahold
+fetch Revenue for category Meats in month Jun?,Revenue,Meats,NA,NA
+display Max Shipment for Sub_category All others in month Jan to Oct?,Max Shipment,NA,All others,NA
+generate Gross Sales for the Customer Albertsons/Safeway in week Wk46?,Gross Sales,NA,NA,Albertsons/Safeway
+get Gross Sales for the Customer Amazon in quarter Q1 to Q4?,Gross Sales,NA,NA,Amazon
+fetch Revenue for category Sauces in year 2019?,Revenue,Sauces,NA,NA
+display Bottom Line for category Sauces in month Jan to Oct?,Bottom Line,Sauces,NA,NA
+generate Net sales for category Candy in year 2019?,Net sales,Candy,NA,NA
+display Bottom Line for category Candy in quarter Q2 to Q4?,Bottom Line,Candy,NA,NA
+display Count for Sub_category Bars/Snacks in quarter Q2?,Count,NA,Bars/Snacks,NA
+fetch Revenue for Sub_category BBQ in week Wk24 to Wk27?,Revenue,NA,BBQ,NA
+display Gross Sales for the Customer Ahold in week Wk33?,Gross Sales,NA,NA,Ahold
+get Net sales for the Customer Ahold in year 2019?,Net sales,NA,NA,Ahold
+display Max Shipment for the Customer Albertsons/Safeway in quarter Q1?,Max Shipment,NA,NA,Albertsons/Safeway
+display Max Shipment for Sub_category Tea in year 2019?,Max Shipment,NA,Tea,NA
+display Bottom Line for category Candy in quarter Q3?,Bottom Line,Candy,NA,NA
+fetch Gross Sales for the Customer Aldi in week Wk23 to Wk36?,Gross Sales,NA,NA,Aldi
+display Count for category Candy in quarter Q1?,Count,Candy,NA,NA
+fetch Revenue for the Customer Ahold in week Wk1 to Wk47?,Revenue,NA,NA,Ahold
+fetch Gross Sales for the Customer Publix in year 2019?,Gross Sales,NA,NA,Publix
+fetch Top Line for the Customer Amazon in week Wk4 to Wk35?,Top Line,NA,NA,Amazon
+generate Bottom Line for Sub_category Caramels in month Apr?,Bottom Line,NA,Caramels,NA
+fetch Max Shipment for Sub_category Processed Cheese in week Wk22 to Wk42?,Max Shipment,NA,Processed Cheese,NA
+display Top Line for Sub_category Creamers in quarter Q2?,Top Line,NA,Creamers,NA
+generate Max Shipment for Sub_category All others in year 2019?,Max Shipment,NA,All others,NA
+get Max Shipment for category Sauces in year 2019?,Max Shipment,Sauces,NA,NA
+display Net sales for Sub_category Caramels in month Feb to Dec?,Net sales,NA,Caramels,NA
+get Bottom Line for category Cheese in year 2019?,Bottom Line,Cheese,NA,NA
+generate Bottom Line for the Customer Dollar General in month Apr to Nov?,Bottom Line,NA,NA,Dollar General
+generate Bottom Line for category Candy in year 2019?,Bottom Line,Candy,NA,NA
+generate Top Line for category Candy in month Mar to Aug?,Top Line,Candy,NA,NA
+get Revenue for the Customer Aldi in week Wk42?,Revenue,NA,NA,Aldi
+get Bottom Line for Sub_category Hard in quarter Q2 to Q4?,Bottom Line,NA,Hard,NA
+display Max Shipment for Sub_category Mayonaise in quarter Q3?,Max Shipment,NA,Mayonaise,NA
+display Gross Sales for Sub_category Hot Dogs in quarter Q1 to Q4?,Gross Sales,NA,Hot Dogs,NA
+display Bottom Line for category Sauces in week Wk14?,Bottom Line,Sauces,NA,NA
+display Revenue for the Customer Walmart in week Wk20 to Wk32?,Revenue,NA,NA,Walmart
+generate Gross Sales for category Meats in week Wk10?,Gross Sales,Meats,NA,NA
+generate Bottom Line for Sub_category Processed Cheese in year 2019?,Bottom Line,NA,Processed Cheese,NA
+fetch Bottom Line for category Breakfast in week Wk37?,Bottom Line,Breakfast,NA,NA
+display Max Shipment for Sub_category BBQ in year 2019?,Max Shipment,NA,BBQ,NA
+generate Net sales for category Breakfast in month Jun?,Net sales,Breakfast,NA,NA
+generate Revenue for Sub_category Juice in week Wk16 to Wk30?,Revenue,NA,Juice,NA
+generate Net sales for the Customer Ahold in year 2019?,Net sales,NA,NA,Ahold
+display Count for category Sauces in year 2019?,Count,Sauces,NA,NA
+fetch Revenue for Sub_category Caramels in year 2019?,Revenue,NA,Caramels,NA
+fetch Net sales for category Breakfast in week Wk2 to Wk36?,Net sales,Breakfast,NA,NA
+get Net sales for Sub_category Specialty Meats in month Jul?,Net sales,NA,Specialty Meats,NA
+get Gross Sales for category Sauces in week Wk18 to Wk46?,Gross Sales,Sauces,NA,NA
+get Top Line for category Candy in month Mar?,Top Line,Candy,NA,NA
+generate Bottom Line for category Candy in month Mar to Oct?,Bottom Line,Candy,NA,NA
+display Gross Sales for category Cheese in week Wk35?,Gross Sales,Cheese,NA,NA
+fetch Top Line for Sub_category Tea in month Jan to Oct?,Top Line,NA,Tea,NA
+display Bottom Line for the Customer Costco in week Wk6?,Bottom Line,NA,NA,Costco
+get Bottom Line for the Customer UNIFI in week Wk8 to Wk39?,Bottom Line,NA,NA,UNIFI
+display Max Shipment for Sub_category Enhancers in quarter Q3?,Max Shipment,NA,Enhancers,NA
+fetch Max Shipment for Sub_category Enhancers in week Wk24 to Wk50?,Max Shipment,NA,Enhancers,NA
+generate Max Shipment for category Cheese in month Apr?,Max Shipment,Cheese,NA,NA
+get Max Shipment for the Customer UNIFI in year 2019?,Max Shipment,NA,NA,UNIFI
+get Net sales for category Candy in month Aug?,Net sales,Candy,NA,NA
+fetch Revenue for Sub_category Bacon in year 2019?,Revenue,NA,Bacon,NA
+display Count for Sub_category BBQ in quarter Q3?,Count,NA,BBQ,NA
+generate Top Line for category Cheese in year 2019?,Top Line,Cheese,NA,NA
+get Top Line for Sub_category All others in week Wk10?,Top Line,NA,All others,NA
+generate Top Line for the Customer Walmart in quarter Q2 to Q4?,Top Line,NA,NA,Walmart
+generate Top Line for category Cheese in year 2019?,Top Line,Cheese,NA,NA
+fetch Revenue for Sub_category Hot Dogs in year 2019?,Revenue,NA,Hot Dogs,NA
+generate Max Shipment for category Sauces in quarter Q2?,Max Shipment,Sauces,NA,NA
+get Max Shipment for the Customer Walmart in year 2019?,Max Shipment,NA,NA,Walmart
+fetch Count for category Sauces in month Apr?,Count,Sauces,NA,NA
+fetch Revenue for category Cheese in month Feb to Oct?,Revenue,Cheese,NA,NA
+display Gross Sales for the Customer Ahold in year 2019?,Gross Sales,NA,NA,Ahold
+generate Net sales for the Customer Costco in quarter Q1 to Q4?,Net sales,NA,NA,Costco
+get Net sales for the Customer Albertsons/Safeway in month Apr?,Net sales,NA,NA,Albertsons/Safeway
+fetch Count for Sub_category Natural Cheese in quarter Q2 to Q4?,Count,NA,Natural Cheese,NA
+display Gross Sales for category Breakfast in month Mar?,Gross Sales,Breakfast,NA,NA
+get Bottom Line for Sub_category Processed Cheese in month Apr to Dec?,Bottom Line,NA,Processed Cheese,NA
+get Revenue for Sub_category Natural Cheese in week Wk38?,Revenue,NA,Natural Cheese,NA
+generate Top Line for category Sauces in year 2019?,Top Line,Sauces,NA,NA
+fetch Max Shipment for Sub_category Enhancers in month Sep?,Max Shipment,NA,Enhancers,NA
+display Bottom Line for Sub_category Chocolate in week Wk2 to Wk39?,Bottom Line,NA,Chocolate,NA
+fetch Net sales for the Customer Target in year 2019?,Net sales,NA,NA,Target
+fetch Top Line for category Breakfast in year 2019?,Top Line,Breakfast,NA,NA
+get Revenue for category Breakfast in quarter Q2?,Revenue,Breakfast,NA,NA
+display Gross Sales for the Customer Target in month May to Oct?,Gross Sales,NA,NA,Target
+fetch Gross Sales for the Customer Albertsons/Safeway in month Feb?,Gross Sales,NA,NA,Albertsons/Safeway
+generate Count for category Candy in month Mar to Dec?,Count,Candy,NA,NA
+fetch Bottom Line for Sub_category Chocolate in month Nov?,Bottom Line,NA,Chocolate,NA
+fetch Revenue for category Candy in quarter Q1 to Q4?,Revenue,Candy,NA,NA
+generate Bottom Line for the Customer UNIFI in month May?,Bottom Line,NA,NA,UNIFI
+display Count for the Customer Ahold in year 2019?,Count,NA,NA,Ahold
+display Max Shipment for the Customer Aldi in week Wk19?,Max Shipment,NA,NA,Aldi
+generate Net sales for the Customer UNIFI in week Wk8 to Wk30?,Net sales,NA,NA,UNIFI
+generate Net sales for the Customer Ahold in week Wk26?,Net sales,NA,NA,Ahold
+generate Gross Sales for Sub_category Natural Cheese in week Wk17 to Wk31?,Gross Sales,NA,Natural Cheese,NA
+generate Bottom Line for Sub_category Bacon in month Dec?,Bottom Line,NA,Bacon,NA
+display Gross Sales for the Customer Amazon in month Feb to Oct?,Gross Sales,NA,NA,Amazon
+display Max Shipment for category Candy in month Mar?,Max Shipment,Candy,NA,NA
+fetch Count for category Cheese in month Mar to Oct?,Count,Cheese,NA,NA
+display Revenue for Sub_category Coffee in week Wk22?,Revenue,NA,Coffee,NA
+generate Top Line for Sub_category Shelf Stable in quarter Q1 to Q4?,Top Line,NA,Shelf Stable,NA
+get Net sales for the Customer Albertsons/Safeway in week Wk28?,Net sales,NA,NA,Albertsons/Safeway
+generate Max Shipment for Sub_category Juice in quarter Q2 to Q4?,Max Shipment,NA,Juice,NA
+display Net sales for the Customer Kroger in week Wk8?,Net sales,NA,NA,Kroger
+fetch Revenue for category Breakfast in year 2019?,Revenue,Breakfast,NA,NA
+get Gross Sales for category Cheese in month Apr?,Gross Sales,Cheese,NA,NA
+display Count for the Customer Walmart in quarter Q1 to Q4?,Count,NA,NA,Walmart
+generate Net sales for category Meats in month Jun?,Net sales,Meats,NA,NA
+generate Count for category Cheese in month Jun to Oct?,Count,Cheese,NA,NA
+display Count for the Customer Costco in quarter Q2?,Count,NA,NA,Costco
+display Bottom Line for category Candy in quarter Q1 to Q4?,Bottom Line,Candy,NA,NA
+display Net sales for the Customer Dollar General in month Feb?,Net sales,NA,NA,Dollar General
+fetch Max Shipment for the Customer Dollar General in week Wk18 to Wk27?,Max Shipment,NA,NA,Dollar General
+generate Count for Sub_category All others in quarter Q1?,Count,NA,All others,NA
+get Gross Sales for category Breakfast in year 2019?,Gross Sales,Breakfast,NA,NA
+get Bottom Line for category Sauces in month Jan?,Bottom Line,Sauces,NA,NA
+get Revenue for category Cheese in quarter Q2 to Q4?,Revenue,Cheese,NA,NA
+generate Bottom Line for Sub_category Grated in quarter Q1?,Bottom Line,NA,Grated,NA
+get Net sales for the Customer Ahold in month Jun to Sep?,Net sales,NA,NA,Ahold
+display Count for category Meats in week Wk16?,Count,Meats,NA,NA
+get Max Shipment for category Breakfast in week Wk20 to Wk35?,Max Shipment,Breakfast,NA,NA
+fetch Revenue for category Breakfast in month May?,Revenue,Breakfast,NA,NA
+get Count for category Candy in quarter Q2 to Q4?,Count,Candy,NA,NA
+display Net sales for category Breakfast in quarter Q3?,Net sales,Breakfast,NA,NA
+display Max Shipment for the Customer UNIFI in quarter Q2 to Q4?,Max Shipment,NA,NA,UNIFI
+fetch Max Shipment for Sub_category Mayonaise in month Jan?,Max Shipment,NA,Mayonaise,NA
+fetch Count for category Meats in month May to Aug?,Count,Meats,NA,NA
+generate Bottom Line for the Customer Kroger in year 2019?,Bottom Line,NA,NA,Kroger
+generate Bottom Line for Sub_category Creamers in week Wk19 to Wk35?,Bottom Line,NA,Creamers,NA
+fetch Count for Sub_category Tea in quarter Q4?,Count,NA,Tea,NA
+generate Net sales for Sub_category Chocolate in quarter Q1 to Q4?,Net sales,NA,Chocolate,NA
+generate Top Line for category Sauces in week Wk3?,Top Line,Sauces,NA,NA
+fetch Top Line for the Customer Aldi in week Wk22 to Wk30?,Top Line,NA,NA,Aldi
+fetch Max Shipment for category Candy in quarter Q4?,Max Shipment,Candy,NA,NA
+fetch Net sales for Sub_category Shelf Stable in year 2019?,Net sales,NA,Shelf Stable,NA
+generate Revenue for Sub_category Enhancers in month Dec?,Revenue,NA,Enhancers,NA
+fetch Max Shipment for Sub_category Natural Cheese in quarter Q1 to Q4?,Max Shipment,NA,Natural Cheese,NA
+generate Bottom Line for Sub_category Cold Cuts in month Jun?,Bottom Line,NA,Cold Cuts,NA
+generate Net sales for category Breakfast in year 2019?,Net sales,Breakfast,NA,NA
+display Net sales for the Customer Ahold in week Wk17?,Net sales,NA,NA,Ahold
+display Bottom Line for the Customer Walmart in quarter Q1 to Q4?,Bottom Line,NA,NA,Walmart
+fetch Net sales for category Sauces in quarter Q4?,Net sales,Sauces,NA,NA
+fetch Net sales for Sub_category Specialty Meats in quarter Q1 to Q4?,Net sales,NA,Specialty Meats,NA
+fetch Max Shipment for category Candy in year 2019?,Max Shipment,Candy,NA,NA
+display Max Shipment for category Sauces in week Wk10 to Wk30?,Max Shipment,Sauces,NA,NA
+generate Max Shipment for category Sauces in year 2019?,Max Shipment,Sauces,NA,NA
+generate Bottom Line for category Candy in month Jun to Oct?,Bottom Line,Candy,NA,NA
+display Max Shipment for the Customer Costco in year 2019?,Max Shipment,NA,NA,Costco
+display Revenue for Sub_category Enhancers in month Apr to Sep?,Revenue,NA,Enhancers,NA
+get Net sales for category Sauces in quarter Q2?,Net sales,Sauces,NA,NA
+fetch Count for category Breakfast in week Wk20 to Wk33?,Count,Breakfast,NA,NA
+fetch Net sales for Sub_category Shelf Stable in year 2019?,Net sales,NA,Shelf Stable,NA
+display Net sales for the Customer Ahold in week Wk18 to Wk31?,Net sales,NA,NA,Ahold
+display Count for the Customer Amazon in month Jan?,Count,NA,NA,Amazon
+display Gross Sales for category Candy in week Wk5 to Wk49?,Gross Sales,Candy,NA,NA
+get Bottom Line for Sub_category Natural Cheese in week Wk34?,Bottom Line,NA,Natural Cheese,NA
+generate Gross Sales for category Sauces in week Wk2 to Wk49?,Gross Sales,Sauces,NA,NA
+fetch Max Shipment for the Customer Albertsons/Safeway in month Jul?,Max Shipment,NA,NA,Albertsons/Safeway
+fetch Revenue for category Sauces in year 2019?,Revenue,Sauces,NA,NA
+fetch Bottom Line for Sub_category Coffee in quarter Q2?,Bottom Line,NA,Coffee,NA
+get Count for the Customer Dollar General in quarter Q2 to Q4?,Count,NA,NA,Dollar General
+get Revenue for category Sauces in month Mar?,Revenue,Sauces,NA,NA
+generate Bottom Line for Sub_category Shelf Stable in year 2019?,Bottom Line,NA,Shelf Stable,NA
+display Net sales for category Sauces in month Apr?,Net sales,Sauces,NA,NA
+generate Top Line for category Breakfast in week Wk3 to Wk39?,Top Line,Breakfast,NA,NA
+fetch Count for the Customer Kroger in week Wk39?,Count,NA,NA,Kroger
+display Top Line for category Breakfast in quarter Q1 to Q4?,Top Line,Breakfast,NA,NA
+display Revenue for category Meats in year 2019?,Revenue,Meats,NA,NA
+generate Count for the Customer Publix in week Wk23 to Wk34?,Count,NA,NA,Publix
+display Net sales for Sub_category Natural Cheese in month Sep?,Net sales,NA,Natural Cheese,NA
+generate Revenue for the Customer Dollar General in quarter Q1 to Q4?,Revenue,NA,NA,Dollar General
+generate Top Line for Sub_category Hard in year 2019?,Top Line,NA,Hard,NA
+get Gross Sales for category Candy in year 2019?,Gross Sales,Candy,NA,NA
+fetch Max Shipment for the Customer Dollar General in year 2019?,Max Shipment,NA,NA,Dollar General
+fetch Net sales for the Customer Kroger in week Wk20 to Wk52?,Net sales,NA,NA,Kroger
+generate Top Line for the Customer Amazon in month Dec?,Top Line,NA,NA,Amazon
+generate Bottom Line for category Meats in month Jun to Nov?,Bottom Line,Meats,NA,NA
+get Bottom Line for category Candy in month Apr?,Bottom Line,Candy,NA,NA
+get Bottom Line for Sub_category Creamers in quarter Q2 to Q4?,Bottom Line,NA,Creamers,NA
+display Bottom Line for category Candy in year 2019?,Bottom Line,Candy,NA,NA
+get Net sales for the Customer UNIFI in year 2019?,Net sales,NA,NA,UNIFI
+fetch Net sales for category Meats in quarter Q2?,Net sales,Meats,NA,NA
+get Revenue for Sub_category Shelf Stable in week Wk24 to Wk27?,Revenue,NA,Shelf Stable,NA
+fetch Top Line for the Customer Amazon in week Wk34?,Top Line,NA,NA,Amazon
+fetch Gross Sales for Sub_category Juice in quarter Q2 to Q4?,Gross Sales,NA,Juice,NA
+fetch Count for category Breakfast in year 2019?,Count,Breakfast,NA,NA
+fetch Count for Sub_category Caramels in week Wk13 to Wk42?,Count,NA,Caramels,NA
+display Net sales for Sub_category Shelf Stable in month Mar?,Net sales,NA,Shelf Stable,NA
+display Max Shipment for category Sauces in week Wk14 to Wk30?,Max Shipment,Sauces,NA,NA
+get Gross Sales for the Customer Dollar General in quarter Q1?,Gross Sales,NA,NA,Dollar General
+get Top Line for Sub_category Hard in week Wk11 to Wk44?,Top Line,NA,Hard,NA
+get Net sales for category Sauces in year 2019?,Net sales,Sauces,NA,NA
+get Bottom Line for Sub_category Gelatin in month Mar to Sep?,Bottom Line,NA,Gelatin,NA
+fetch Max Shipment for category Meats in quarter Q2?,Max Shipment,Meats,NA,NA
+generate Gross Sales for category Cheese in quarter Q1 to Q4?,Gross Sales,Cheese,NA,NA
+fetch Max Shipment for Sub_category Tea in quarter Q1?,Max Shipment,NA,Tea,NA
+get Gross Sales for the Customer Costco in quarter Q2 to Q4?,Gross Sales,NA,NA,Costco
+get Revenue for category Cheese in quarter Q4?,Revenue,Cheese,NA,NA
+generate Top Line for Sub_category Shelf Stable in month Jan to Nov?,Top Line,NA,Shelf Stable,NA
+fetch Bottom Line for Sub_category Cold Cuts in week Wk24?,Bottom Line,NA,Cold Cuts,NA
+generate Top Line for Sub_category Mayonaise in month Mar to Nov?,Top Line,NA,Mayonaise,NA
+display Count for category Cheese in quarter Q4?,Count,Cheese,NA,NA
+get Top Line for category Cheese in week Wk6 to Wk27?,Top Line,Cheese,NA,NA
+get Count for the Customer Walmart in week Wk39?,Count,NA,NA,Walmart
+display Max Shipment for Sub_category Hot Dogs in week Wk16 to Wk32?,Max Shipment,NA,Hot Dogs,NA
+display Revenue for Sub_category Chocolate in quarter Q2?,Revenue,NA,Chocolate,NA
+get Bottom Line for the Customer Target in year 2019?,Bottom Line,NA,NA,Target
+generate Top Line for category Sauces in quarter Q4?,Top Line,Sauces,NA,NA
+display Net sales for Sub_category Bars/Snacks in year 2019?,Net sales,NA,Bars/Snacks,NA
+get Max Shipment for Sub_category BBQ in month Mar?,Max Shipment,NA,BBQ,NA
+fetch Max Shipment for the Customer Albertsons/Safeway in quarter Q2 to Q4?,Max Shipment,NA,NA,Albertsons/Safeway
+get Net sales for the Customer Costco in month Feb?,Net sales,NA,NA,Costco
+fetch Count for the Customer Costco in week Wk10 to Wk47?,Count,NA,NA,Costco
+get Bottom Line for the Customer Target in quarter Q4?,Bottom Line,NA,NA,Target
+generate Bottom Line for Sub_category Grated in week Wk1 to Wk44?,Bottom Line,NA,Grated,NA
+generate Max Shipment for the Customer Amazon in year 2019?,Max Shipment,NA,NA,Amazon
+get Gross Sales for category Cheese in year 2019?,Gross Sales,Cheese,NA,NA
+display Bottom Line for category Meats in quarter Q2?,Bottom Line,Meats,NA,NA
+get Net sales for the Customer Costco in year 2019?,Net sales,NA,NA,Costco
+display Gross Sales for Sub_category All others in quarter Q4?,Gross Sales,NA,All others,NA
+fetch Revenue for the Customer UNIFI in quarter Q2 to Q4?,Revenue,NA,NA,UNIFI
+generate Net sales for Sub_category Natural Cheese in year 2019?,Net sales,NA,Natural Cheese,NA
+display Gross Sales for Sub_category Tea in year 2019?,Gross Sales,NA,Tea,NA
+fetch Top Line for Sub_category Processed Cheese in year 2019?,Top Line,NA,Processed Cheese,NA
+fetch Max Shipment for category Breakfast in quarter Q1 to Q4?,Max Shipment,Breakfast,NA,NA
+display Max Shipment for Sub_category Natural Cheese in year 2019?,Max Shipment,NA,Natural Cheese,NA
+generate Top Line for the Customer Costco in year 2019?,Top Line,NA,NA,Costco
+display Count for category Sauces in quarter Q1?,Count,Sauces,NA,NA
+display Max Shipment for Sub_category Enhancers in week Wk7 to Wk39?,Max Shipment,NA,Enhancers,NA
+fetch Revenue for the Customer Costco in month Jan?,Revenue,NA,NA,Costco
+get Revenue for the Customer Aldi in quarter Q2 to Q4?,Revenue,NA,NA,Aldi
+fetch Top Line for category Sauces in month Feb?,Top Line,Sauces,NA,NA
+fetch Revenue for category Cheese in week Wk9 to Wk50?,Revenue,Cheese,NA,NA
+fetch Bottom Line for the Customer Aldi in quarter Q3?,Bottom Line,NA,NA,Aldi
+display Revenue for category Sauces in month Mar to Oct?,Revenue,Sauces,NA,NA
+generate Max Shipment for the Customer Ahold in quarter Q3?,Max Shipment,NA,NA,Ahold
+generate Gross Sales for Sub_category BBQ in year 2019?,Gross Sales,NA,BBQ,NA
+fetch Top Line for the Customer Amazon in week Wk49?,Top Line,NA,NA,Amazon
+display Gross Sales for Sub_category BBQ in quarter Q1 to Q4?,Gross Sales,NA,BBQ,NA
+generate Bottom Line for category Cheese in year 2019?,Bottom Line,Cheese,NA,NA
+display Bottom Line for the Customer Walmart in quarter Q2 to Q4?,Bottom Line,NA,NA,Walmart
+get Bottom Line for Sub_category Cold Cuts in month May?,Bottom Line,NA,Cold Cuts,NA
+display Top Line for category Breakfast in week Wk13 to Wk32?,Top Line,Breakfast,NA,NA
+get Top Line for the Customer Aldi in week Wk46?,Top Line,NA,NA,Aldi
+generate Revenue for the Customer Costco in week Wk19 to Wk52?,Revenue,NA,NA,Costco
+get Top Line for the Customer Kroger in quarter Q4?,Top Line,NA,NA,Kroger
+generate Revenue for the Customer Albertsons/Safeway in week Wk5 to Wk43?,Revenue,NA,NA,Albertsons/Safeway
+get Top Line for category Meats in week Wk39?,Top Line,Meats,NA,NA
+fetch Top Line for Sub_category Mayonaise in month Jan to Sep?,Top Line,NA,Mayonaise,NA
+get Gross Sales for Sub_category Chocolate in week Wk44?,Gross Sales,NA,Chocolate,NA
+generate Top Line for category Meats in year 2019?,Top Line,Meats,NA,NA
+fetch Net sales for Sub_category Grated in quarter Q2?,Net sales,NA,Grated,NA
+generate Net sales for category Candy in month Jun to Dec?,Net sales,Candy,NA,NA
+get Max Shipment for Sub_category Grated in week Wk30?,Max Shipment,NA,Grated,NA
+generate Net sales for category Breakfast in quarter Q1 to Q4?,Net sales,Breakfast,NA,NA
+display Net sales for category Breakfast in week Wk44?,Net sales,Breakfast,NA,NA
+fetch Net sales for category Breakfast in month Jun to Aug?,Net sales,Breakfast,NA,NA
+generate Max Shipment for the Customer Target in week Wk26?,Max Shipment,NA,NA,Target
+display Top Line for Sub_category Chocolate in year 2019?,Top Line,NA,Chocolate,NA
+fetch Bottom Line for Sub_category Gelatin in week Wk41?,Bottom Line,NA,Gelatin,NA
+display Max Shipment for category Breakfast in year 2019?,Max Shipment,Breakfast,NA,NA
+fetch Max Shipment for the Customer Kroger in month Feb?,Max Shipment,NA,NA,Kroger
+fetch Revenue for the Customer Walmart in week Wk16 to Wk38?,Revenue,NA,NA,Walmart
+display Revenue for the Customer Aldi in year 2019?,Revenue,NA,NA,Aldi
+display Count for the Customer UNIFI in month Mar to Oct?,Count,NA,NA,UNIFI
+fetch Bottom Line for the Customer Target in quarter Q3?,Bottom Line,NA,NA,Target
+display Net sales for Sub_category Bacon in quarter Q1 to Q4?,Net sales,NA,Bacon,NA
+fetch Net sales for category Breakfast in week Wk4?,Net sales,Breakfast,NA,NA
+get Gross Sales for Sub_category Chocolate in year 2019?,Gross Sales,NA,Chocolate,NA
+fetch Bottom Line for the Customer Target in quarter Q4?,Bottom Line,NA,NA,Target
+display Revenue for category Sauces in month May to Dec?,Revenue,Sauces,NA,NA
+fetch Count for Sub_category Bacon in quarter Q1?,Count,NA,Bacon,NA
+fetch Bottom Line for category Candy in year 2019?,Bottom Line,Candy,NA,NA
+get Count for category Meats in month Jun?,Count,Meats,NA,NA
+fetch Revenue for Sub_category BBQ in week Wk15 to Wk32?,Revenue,NA,BBQ,NA
+generate Net sales for the Customer Ahold in week Wk15?,Net sales,NA,NA,Ahold
+get Gross Sales for Sub_category Natural Cheese in quarter Q2 to Q4?,Gross Sales,NA,Natural Cheese,NA
+display Max Shipment for Sub_category Chocolate in quarter Q3?,Max Shipment,NA,Chocolate,NA
+generate Net sales for Sub_category Creamers in week Wk15 to Wk41?,Net sales,NA,Creamers,NA
+fetch Count for Sub_category Hot Dogs in year 2019?,Count,NA,Hot Dogs,NA
+get Revenue for Sub_category Shelf Stable in quarter Q2 to Q4?,Revenue,NA,Shelf Stable,NA
+get Bottom Line for category Meats in month Jul?,Bottom Line,Meats,NA,NA
+fetch Net sales for the Customer Kroger in week Wk17 to Wk50?,Net sales,NA,NA,Kroger
+get Top Line for the Customer Target in quarter Q3?,Top Line,NA,NA,Target
+generate Top Line for category Breakfast in quarter Q2 to Q4?,Top Line,Breakfast,NA,NA
+fetch Max Shipment for category Sauces in quarter Q4?,Max Shipment,Sauces,NA,NA
+fetch Revenue for Sub_category Enhancers in quarter Q1 to Q4?,Revenue,NA,Enhancers,NA
+generate Bottom Line for Sub_category Bars/Snacks in month Jan?,Bottom Line,NA,Bars/Snacks,NA
+generate Count for the Customer Aldi in month Feb to Sep?,Count,NA,NA,Aldi
+generate Bottom Line for category Meats in quarter Q2?,Bottom Line,Meats,NA,NA
+fetch Bottom Line for Sub_category All others in quarter Q1 to Q4?,Bottom Line,NA,All others,NA
+generate Bottom Line for Sub_category Ketchup in quarter Q3?,Bottom Line,NA,Ketchup,NA
+generate Bottom Line for Sub_category Caramels in week Wk8 to Wk44?,Bottom Line,NA,Caramels,NA
+display Top Line for Sub_category Shelf Stable in year 2019?,Top Line,NA,Shelf Stable,NA
+generate Top Line for category Breakfast in month May to Aug?,Top Line,Breakfast,NA,NA
+generate Max Shipment for the Customer Publix in quarter Q3?,Max Shipment,NA,NA,Publix
+generate Max Shipment for the Customer Kroger in quarter Q2 to Q4?,Max Shipment,NA,NA,Kroger
+display Count for the Customer UNIFI in month Aug?,Count,NA,NA,UNIFI
+generate Net sales for Sub_category Shelf Stable in month May to Oct?,Net sales,NA,Shelf Stable,NA
+generate Count for Sub_category Coffee in month Oct?,Count,NA,Coffee,NA
+fetch Bottom Line for the Customer Kroger in year 2019?,Bottom Line,NA,NA,Kroger
+display Top Line for Sub_category Grated in week Wk7?,Top Line,NA,Grated,NA
+get Revenue for Sub_category Juice in year 2019?,Revenue,NA,Juice,NA
+get Net sales for the Customer Albertsons/Safeway in year 2019?,Net sales,NA,NA,Albertsons/Safeway
+fetch Max Shipment for Sub_category Hot Dogs in month May to Oct?,Max Shipment,NA,Hot Dogs,NA
+get Gross Sales for category Candy in week Wk42?,Gross Sales,Candy,NA,NA
+get Top Line for category Sauces in year 2019?,Top Line,Sauces,NA,NA
+fetch Top Line for the Customer Ahold in quarter Q1?,Top Line,NA,NA,Ahold
+generate Net sales for the Customer Publix in quarter Q1 to Q4?,Net sales,NA,NA,Publix
+get Max Shipment for Sub_category Tea in year 2019?,Max Shipment,NA,Tea,NA
+display Max Shipment for category Breakfast in quarter Q2 to Q4?,Max Shipment,Breakfast,NA,NA
+generate Max Shipment for Sub_category Juice in week Wk46?,Max Shipment,NA,Juice,NA
+generate Top Line for the Customer Publix in quarter Q1 to Q4?,Top Line,NA,NA,Publix
+generate Bottom Line for category Meats in quarter Q2?,Bottom Line,Meats,NA,NA
+fetch Revenue for category Sauces in year 2019?,Revenue,Sauces,NA,NA
+display Count for the Customer Costco in month Jun?,Count,NA,NA,Costco
+display Count for the Customer Ahold in week Wk11 to Wk52?,Count,NA,NA,Ahold
+generate Bottom Line for Sub_category Mayonaise in week Wk35?,Bottom Line,NA,Mayonaise,NA
+fetch Max Shipment for category Cheese in month Jan to Dec?,Max Shipment,Cheese,NA,NA
+generate Top Line for the Customer Kroger in week Wk21?,Top Line,NA,NA,Kroger
+display Gross Sales for category Meats in quarter Q2 to Q4?,Gross Sales,Meats,NA,NA
+display Revenue for Sub_category Caramels in quarter Q4?,Revenue,NA,Caramels,NA
+display Count for Sub_category Juice in year 2019?,Count,NA,Juice,NA
+generate Net sales for Sub_category Caramels in quarter Q2?,Net sales,NA,Caramels,NA
+fetch Bottom Line for category Meats in month Mar to Oct?,Bottom Line,Meats,NA,NA
+get Count for the Customer Albertsons/Safeway in month May?,Count,NA,NA,Albertsons/Safeway
+display Max Shipment for category Breakfast in quarter Q2 to Q4?,Max Shipment,Breakfast,NA,NA
+get Bottom Line for category Breakfast in month May?,Bottom Line,Breakfast,NA,NA
+generate Net sales for the Customer Dollar General in year 2019?,Net sales,NA,NA,Dollar General
+get Gross Sales for the Customer Amazon in year 2019?,Gross Sales,NA,NA,Amazon
+generate Revenue for Sub_category Ketchup in quarter Q2 to Q4?,Revenue,NA,Ketchup,NA
+fetch Revenue for Sub_category Hot Dogs in week Wk38?,Revenue,NA,Hot Dogs,NA
+generate Gross Sales for Sub_category Ketchup in week Wk25 to Wk29?,Gross Sales,NA,Ketchup,NA
+generate Count for the Customer UNIFI in month Sep?,Count,NA,NA,UNIFI
+display Top Line for the Customer Walmart in week Wk7 to Wk32?,Top Line,NA,NA,Walmart
+display Top Line for Sub_category Ketchup in week Wk29?,Top Line,NA,Ketchup,NA
+fetch Revenue for category Breakfast in week Wk17 to Wk27?,Revenue,Breakfast,NA,NA
+display Count for the Customer Publix in month Nov?,Count,NA,NA,Publix
+display Count for Sub_category Chocolate in year 2019?,Count,NA,Chocolate,NA
+generate Top Line for the Customer Walmart in week Wk10?,Top Line,NA,NA,Walmart
+display Top Line for Sub_category Juice in year 2019?,Top Line,NA,Juice,NA
+generate Top Line for Sub_category Mayonaise in year 2019?,Top Line,NA,Mayonaise,NA
+get Net sales for Sub_category Creamers in year 2019?,Net sales,NA,Creamers,NA
+display Max Shipment for the Customer Target in week Wk28?,Max Shipment,NA,NA,Target
+display Bottom Line for the Customer Aldi in year 2019?,Bottom Line,NA,NA,Aldi
+display Revenue for Sub_category Juice in quarter Q1?,Revenue,NA,Juice,NA
+fetch Revenue for category Candy in quarter Q2 to Q4?,Revenue,Candy,NA,NA
+generate Gross Sales for Sub_category Shelf Stable in quarter Q1?,Gross Sales,NA,Shelf Stable,NA
+get Bottom Line for the Customer UNIFI in quarter Q1 to Q4?,Bottom Line,NA,NA,UNIFI
+display Bottom Line for the Customer Kroger in year 2019?,Bottom Line,NA,NA,Kroger
+generate Gross Sales for category Sauces in quarter Q1 to Q4?,Gross Sales,Sauces,NA,NA
+get Revenue for category Candy in month Dec?,Revenue,Candy,NA,NA
+generate Max Shipment for Sub_category Ketchup in quarter Q2 to Q4?,Max Shipment,NA,Ketchup,NA
+get Net sales for the Customer Publix in year 2019?,Net sales,NA,NA,Publix
+fetch Max Shipment for the Customer Publix in month Mar to Oct?,Max Shipment,NA,NA,Publix
+fetch Gross Sales for the Customer Walmart in week Wk17?,Gross Sales,NA,NA,Walmart
+get Bottom Line for the Customer Dollar General in year 2019?,Bottom Line,NA,NA,Dollar General
+fetch Count for the Customer Ahold in week Wk22?,Count,NA,NA,Ahold
+display Max Shipment for the Customer Ahold in quarter Q1 to Q4?,Max Shipment,NA,NA,Ahold
+get Gross Sales for the Customer Ahold in quarter Q1?,Gross Sales,NA,NA,Ahold
+fetch Top Line for the Customer Ahold in week Wk5 to Wk47?,Top Line,NA,NA,Ahold
+generate Revenue for Sub_category Processed Cheese in week Wk15?,Revenue,NA,Processed Cheese,NA
+fetch Net sales for Sub_category Processed Cheese in month May to Aug?,Net sales,NA,Processed Cheese,NA
+display Count for category Meats in month Jun?,Count,Meats,NA,NA
+fetch Max Shipment for category Meats in quarter Q2 to Q4?,Max Shipment,Meats,NA,NA
+generate Revenue for category Cheese in year 2019?,Revenue,Cheese,NA,NA
+display Net sales for Sub_category Processed Cheese in year 2019?,Net sales,NA,Processed Cheese,NA
+fetch Count for Sub_category Mayonaise in month Apr?,Count,NA,Mayonaise,NA
+get Bottom Line for the Customer Aldi in week Wk18 to Wk36?,Bottom Line,NA,NA,Aldi
+fetch Bottom Line for Sub_category Specialty Meats in year 2019?,Bottom Line,NA,Specialty Meats,NA
+display Gross Sales for category Meats in week Wk13 to Wk43?,Gross Sales,Meats,NA,NA
+get Bottom Line for category Cheese in month Dec?,Bottom Line,Cheese,NA,NA
+generate Max Shipment for the Customer Kroger in week Wk13 to Wk29?,Max Shipment,NA,NA,Kroger
+generate Revenue for Sub_category Ketchup in month Oct?,Revenue,NA,Ketchup,NA
+get Net sales for Sub_category Hard in quarter Q2 to Q4?,Net sales,NA,Hard,NA
+get Revenue for Sub_category Ketchup in month Feb?,Revenue,NA,Ketchup,NA
+get Bottom Line for Sub_category Creamers in week Wk18 to Wk27?,Bottom Line,NA,Creamers,NA
+get Gross Sales for category Sauces in month Feb?,Gross Sales,Sauces,NA,NA
+generate Net sales for the Customer Target in year 2019?,Net sales,NA,NA,Target
+display Revenue for Sub_category Ketchup in week Wk17?,Revenue,NA,Ketchup,NA
+display Gross Sales for category Sauces in month Feb to Oct?,Gross Sales,Sauces,NA,NA
+generate Bottom Line for Sub_category Ketchup in month Jan?,Bottom Line,NA,Ketchup,NA
+display Top Line for Sub_category Hard in month Jan to Sep?,Top Line,NA,Hard,NA
+display Top Line for category Cheese in month Jan?,Top Line,Cheese,NA,NA
+display Gross Sales for category Sauces in month Apr to Sep?,Gross Sales,Sauces,NA,NA
+get Revenue for the Customer Albertsons/Safeway in week Wk26?,Revenue,NA,NA,Albertsons/Safeway
+generate Max Shipment for the Customer Kroger in week Wk16 to Wk31?,Max Shipment,NA,NA,Kroger
+display Max Shipment for category Meats in year 2019?,Max Shipment,Meats,NA,NA
+fetch Net sales for Sub_category Hot Dogs in quarter Q1 to Q4?,Net sales,NA,Hot Dogs,NA
+display Top Line for Sub_category BBQ in year 2019?,Top Line,NA,BBQ,NA
+display Top Line for category Cheese in quarter Q1 to Q4?,Top Line,Cheese,NA,NA
+generate Bottom Line for the Customer Publix in year 2019?,Bottom Line,NA,NA,Publix
+get Max Shipment for the Customer Publix in month Mar to Oct?,Max Shipment,NA,NA,Publix
+get Top Line for category Breakfast in year 2019?,Top Line,Breakfast,NA,NA
+fetch Max Shipment for the Customer Publix in month Feb to Aug?,Max Shipment,NA,NA,Publix
+generate Net sales for the Customer Kroger in month Jan?,Net sales,NA,NA,Kroger
+display Net sales for the Customer Dollar General in quarter Q1 to Q4?,Net sales,NA,NA,Dollar General
+generate Top Line for category Meats in month Apr?,Top Line,Meats,NA,NA
+display Max Shipment for Sub_category Juice in quarter Q2 to Q4?,Max Shipment,NA,Juice,NA
+get Max Shipment for Sub_category Grated in week Wk23?,Max Shipment,NA,Grated,NA
+generate Count for Sub_category Enhancers in month May to Sep?,Count,NA,Enhancers,NA
+fetch Net sales for category Cheese in month Jul?,Net sales,Cheese,NA,NA
+fetch Revenue for Sub_category Cold Cuts in month Mar to Sep?,Revenue,NA,Cold Cuts,NA
+display Gross Sales for category Meats in week Wk28?,Gross Sales,Meats,NA,NA
+get Net sales for category Candy in year 2019?,Net sales,Candy,NA,NA
+generate Max Shipment for category Breakfast in year 2019?,Max Shipment,Breakfast,NA,NA
+fetch Bottom Line for category Candy in week Wk1 to Wk49?,Bottom Line,Candy,NA,NA
+fetch Gross Sales for the Customer Amazon in quarter Q1?,Gross Sales,NA,NA,Amazon
+get Count for category Meats in year 2019?,Count,Meats,NA,NA
+get Top Line for Sub_category BBQ in month Jul?,Top Line,NA,BBQ,NA
+display Count for category Meats in week Wk5 to Wk36?,Count,Meats,NA,NA
+get Revenue for category Breakfast in week Wk37?,Revenue,Breakfast,NA,NA
+fetch Top Line for Sub_category Juice in quarter Q1 to Q4?,Top Line,NA,Juice,NA
+display Net sales for category Candy in quarter Q3?,Net sales,Candy,NA,NA
+generate Bottom Line for Sub_category Mayonaise in year 2019?,Bottom Line,NA,Mayonaise,NA
+generate Revenue for the Customer Dollar General in month Jun?,Revenue,NA,NA,Dollar General
+fetch Max Shipment for the Customer Dollar General in month Mar to Nov?,Max Shipment,NA,NA,Dollar General
+get Count for the Customer Costco in quarter Q4?,Count,NA,NA,Costco
+display Top Line for the Customer Target in quarter Q1 to Q4?,Top Line,NA,NA,Target
+get Gross Sales for the Customer UNIFI in week Wk3?,Gross Sales,NA,NA,UNIFI
+display Max Shipment for the Customer Publix in quarter Q2 to Q4?,Max Shipment,NA,NA,Publix
+display Revenue for category Sauces in month Oct?,Revenue,Sauces,NA,NA
+display Top Line for the Customer Amazon in year 2019?,Top Line,NA,NA,Amazon
+get Gross Sales for the Customer Dollar General in year 2019?,Gross Sales,NA,NA,Dollar General
+fetch Net sales for category Meats in week Wk16 to Wk34?,Net sales,Meats,NA,NA
+display Bottom Line for the Customer Walmart in year 2019?,Bottom Line,NA,NA,Walmart
+fetch Max Shipment for Sub_category Coffee in quarter Q1 to Q4?,Max Shipment,NA,Coffee,NA
+get Top Line for Sub_category Natural Cheese in quarter Q1?,Top Line,NA,Natural Cheese,NA
+generate Net sales for Sub_category All others in week Wk16 to Wk43?,Net sales,NA,All others,NA
+get Net sales for Sub_category Shelf Stable in month Oct?,Net sales,NA,Shelf Stable,NA
+fetch Count for the Customer Walmart in week Wk1 to Wk33?,Count,NA,NA,Walmart
+fetch Revenue for the Customer Costco in year 2019?,Revenue,NA,NA,Costco
+get Max Shipment for the Customer Ahold in year 2019?,Max Shipment,NA,NA,Ahold
+generate Net sales for Sub_category Grated in year 2019?,Net sales,NA,Grated,NA
+get Gross Sales for the Customer Aldi in week Wk8 to Wk46?,Gross Sales,NA,NA,Aldi
+generate Bottom Line for category Sauces in week Wk32?,Bottom Line,Sauces,NA,NA
+fetch Net sales for Sub_category Creamers in month Feb to Oct?,Net sales,NA,Creamers,NA
+get Count for the Customer Albertsons/Safeway in quarter Q2?,Count,NA,NA,Albertsons/Safeway
+get Count for the Customer Ahold in week Wk14 to Wk44?,Count,NA,NA,Ahold
+get Gross Sales for the Customer Walmart in quarter Q4?,Gross Sales,NA,NA,Walmart
+display Count for the Customer Aldi in quarter Q1 to Q4?,Count,NA,NA,Aldi
+generate Bottom Line for Sub_category Natural Cheese in week Wk25?,Bottom Line,NA,Natural Cheese,NA
+generate Net sales for category Sauces in year 2019?,Net sales,Sauces,NA,NA
+generate Gross Sales for Sub_category Hot Dogs in month Dec?,Gross Sales,NA,Hot Dogs,NA
+get Gross Sales for the Customer Dollar General in month Feb to Sep?,Gross Sales,NA,NA,Dollar General
+display Bottom Line for category Sauces in year 2019?,Bottom Line,Sauces,NA,NA
+get Bottom Line for the Customer Target in week Wk15 to Wk40?,Bottom Line,NA,NA,Target
+display Net sales for category Meats in quarter Q3?,Net sales,Meats,NA,NA
+get Bottom Line for Sub_category Shelf Stable in quarter Q1 to Q4?,Bottom Line,NA,Shelf Stable,NA
+display Revenue for category Cheese in quarter Q3?,Revenue,Cheese,NA,NA
+generate Gross Sales for category Sauces in month Jun to Nov?,Gross Sales,Sauces,NA,NA
+generate Bottom Line for Sub_category Bars/Snacks in week Wk27?,Bottom Line,NA,Bars/Snacks,NA
+display Count for category Breakfast in week Wk15 to Wk44?,Count,Breakfast,NA,NA
+fetch Top Line for category Breakfast in year 2019?,Top Line,Breakfast,NA,NA
+display Count for the Customer Amazon in week Wk19 to Wk27?,Count,NA,NA,Amazon
+get Top Line for the Customer Walmart in quarter Q4?,Top Line,NA,NA,Walmart
+fetch Revenue for category Cheese in month Feb to Dec?,Revenue,Cheese,NA,NA
+fetch Bottom Line for category Breakfast in week Wk31?,Bottom Line,Breakfast,NA,NA
+display Max Shipment for the Customer Albertsons/Safeway in year 2019?,Max Shipment,NA,NA,Albertsons/Safeway
+get Count for the Customer Target in month Jan?,Count,NA,NA,Target
+fetch Bottom Line for Sub_category Shelf Stable in month May to Sep?,Bottom Line,NA,Shelf Stable,NA
+display Max Shipment for the Customer Dollar General in week Wk50?,Max Shipment,NA,NA,Dollar General
+fetch Top Line for the Customer Albertsons/Safeway in quarter Q2 to Q4?,Top Line,NA,NA,Albertsons/Safeway
+generate Bottom Line for the Customer Costco in month Jul?,Bottom Line,NA,NA,Costco
+generate Net sales for the Customer Amazon in week Wk1 to Wk42?,Net sales,NA,NA,Amazon
+display Gross Sales for category Candy in week Wk48?,Gross Sales,Candy,NA,NA
+fetch Max Shipment for the Customer Target in quarter Q1 to Q4?,Max Shipment,NA,NA,Target
+display Net sales for Sub_category Gelatin in month Jul?,Net sales,NA,Gelatin,NA
+get Net sales for Sub_category Mayonaise in year 2019?,Net sales,NA,Mayonaise,NA
+get Top Line for category Cheese in quarter Q4?,Top Line,Cheese,NA,NA
+display Revenue for Sub_category Mayonaise in quarter Q1 to Q4?,Revenue,NA,Mayonaise,NA
+fetch Revenue for the Customer Aldi in month Jan?,Revenue,NA,NA,Aldi
+get Revenue for Sub_category Caramels in quarter Q1 to Q4?,Revenue,NA,Caramels,NA
+display Revenue for the Customer Walmart in month Feb?,Revenue,NA,NA,Walmart
+fetch Revenue for the Customer Amazon in week Wk7 to Wk46?,Revenue,NA,NA,Amazon
+get Top Line for category Candy in month Jun?,Top Line,Candy,NA,NA
+get Bottom Line for the Customer Publix in week Wk7 to Wk36?,Bottom Line,NA,NA,Publix
+display Gross Sales for category Breakfast in year 2019?,Gross Sales,Breakfast,NA,NA
+get Count for the Customer Ahold in quarter Q2 to Q4?,Count,NA,NA,Ahold
+generate Gross Sales for Sub_category Caramels in week Wk9?,Gross Sales,NA,Caramels,NA
+fetch Bottom Line for category Meats in quarter Q1 to Q4?,Bottom Line,Meats,NA,NA
+display Net sales for Sub_category Chocolate in month Sep?,Net sales,NA,Chocolate,NA
+fetch Gross Sales for the Customer Aldi in week Wk18 to Wk39?,Gross Sales,NA,NA,Aldi
+display Bottom Line for Sub_category Cold Cuts in year 2019?,Bottom Line,NA,Cold Cuts,NA
+get Gross Sales for Sub_category Grated in quarter Q2 to Q4?,Gross Sales,NA,Grated,NA
+display Count for category Breakfast in week Wk38?,Count,Breakfast,NA,NA
+generate Gross Sales for Sub_category Creamers in year 2019?,Gross Sales,NA,Creamers,NA
+display Max Shipment for category Meats in year 2019?,Max Shipment,Meats,NA,NA
+get Revenue for category Breakfast in month May to Oct?,Revenue,Breakfast,NA,NA
+get Top Line for Sub_category Grated in week Wk21?,Top Line,NA,Grated,NA
+fetch Net sales for the Customer Target in quarter Q1 to Q4?,Net sales,NA,NA,Target
+fetch Bottom Line for Sub_category Specialty Meats in month Jun?,Bottom Line,NA,Specialty Meats,NA
+fetch Revenue for the Customer Publix in week Wk14 to Wk28?,Revenue,NA,NA,Publix
+generate Top Line for Sub_category Hard in quarter Q4?,Top Line,NA,Hard,NA
+get Net sales for the Customer Walmart in quarter Q1 to Q4?,Net sales,NA,NA,Walmart
+generate Net sales for the Customer Costco in quarter Q1?,Net sales,NA,NA,Costco
+get Revenue for the Customer Publix in year 2019?,Revenue,NA,NA,Publix
+generate Top Line for category Meats in week Wk11?,Top Line,Meats,NA,NA
+generate Bottom Line for the Customer Publix in year 2019?,Bottom Line,NA,NA,Publix
+get Gross Sales for the Customer UNIFI in week Wk9?,Gross Sales,NA,NA,UNIFI
+fetch Count for the Customer Amazon in month Apr to Aug?,Count,NA,NA,Amazon
+get Net sales for category Cheese in quarter Q3?,Net sales,Cheese,NA,NA
+fetch Bottom Line for category Meats in month Mar to Nov?,Bottom Line,Meats,NA,NA
+display Gross Sales for Sub_category Hot Dogs in year 2019?,Gross Sales,NA,Hot Dogs,NA
+fetch Count for category Meats in year 2019?,Count,Meats,NA,NA
+generate Max Shipment for Sub_category Bacon in year 2019?,Max Shipment,NA,Bacon,NA
+generate Gross Sales for the Customer Amazon in week Wk22 to Wk51?,Gross Sales,NA,NA,Amazon
+get Max Shipment for Sub_category Shelf Stable in quarter Q1?,Max Shipment,NA,Shelf Stable,NA
+display Net sales for category Breakfast in year 2019?,Net sales,Breakfast,NA,NA
+display Net sales for the Customer Kroger in month Nov?,Net sales,NA,NA,Kroger
+get Count for Sub_category BBQ in quarter Q2 to Q4?,Count,NA,BBQ,NA
+fetch Top Line for Sub_category Hot Dogs in week Wk39?,Top Line,NA,Hot Dogs,NA
+fetch Net sales for Sub_category Enhancers in week Wk19 to Wk43?,Net sales,NA,Enhancers,NA
+fetch Top Line for the Customer Dollar General in month Aug?,Top Line,NA,NA,Dollar General
+generate Net sales for category Sauces in year 2019?,Net sales,Sauces,NA,NA
+fetch Top Line for category Breakfast in quarter Q1?,Top Line,Breakfast,NA,NA
+generate Gross Sales for category Sauces in week Wk12 to Wk47?,Gross Sales,Sauces,NA,NA
+generate Gross Sales for the Customer Dollar General in month Nov?,Gross Sales,NA,NA,Dollar General
+get Gross Sales for Sub_category Mayonaise in week Wk22 to Wk28?,Gross Sales,NA,Mayonaise,NA
+get Max Shipment for the Customer Target in month Sep?,Max Shipment,NA,NA,Target
+get Bottom Line for category Cheese in quarter Q1 to Q4?,Bottom Line,Cheese,NA,NA
+get Count for the Customer Ahold in year 2019?,Count,NA,NA,Ahold
+generate Count for category Sauces in year 2019?,Count,Sauces,NA,NA
+generate Net sales for Sub_category Coffee in month May?,Net sales,NA,Coffee,NA
+generate Max Shipment for the Customer Dollar General in week Wk7 to Wk43?,Max Shipment,NA,NA,Dollar General
+generate Bottom Line for the Customer Costco in month Dec?,Bottom Line,NA,NA,Costco
+get Revenue for the Customer Amazon in week Wk3 to Wk47?,Revenue,NA,NA,Amazon
+display Revenue for the Customer Dollar General in year 2019?,Revenue,NA,NA,Dollar General
+generate Top Line for category Candy in week Wk6 to Wk37?,Top Line,Candy,NA,NA
+display Gross Sales for the Customer Ahold in week Wk36?,Gross Sales,NA,NA,Ahold
+fetch Top Line for the Customer Kroger in year 2019?,Top Line,NA,NA,Kroger
+get Max Shipment for Sub_category Shelf Stable in month Dec?,Max Shipment,NA,Shelf Stable,NA
+display Bottom Line for Sub_category Juice in quarter Q1 to Q4?,Bottom Line,NA,Juice,NA
+get Net sales for category Meats in month Nov?,Net sales,Meats,NA,NA
+generate Gross Sales for category Sauces in month Feb to Sep?,Gross Sales,Sauces,NA,NA
+fetch Count for category Candy in week Wk28?,Count,Candy,NA,NA
+fetch Count for category Cheese in year 2019?,Count,Cheese,NA,NA
+generate Max Shipment for the Customer Albertsons/Safeway in week Wk14?,Max Shipment,NA,NA,Albertsons/Safeway
+generate Gross Sales for category Candy in year 2019?,Gross Sales,Candy,NA,NA
+fetch Top Line for Sub_category Hot Dogs in month Nov?,Top Line,NA,Hot Dogs,NA
+get Bottom Line for Sub_category Bars/Snacks in year 2019?,Bottom Line,NA,Bars/Snacks,NA
+fetch Bottom Line for the Customer Publix in year 2019?,Bottom Line,NA,NA,Publix
+generate Top Line for Sub_category Bars/Snacks in week Wk24 to Wk40?,Top Line,NA,Bars/Snacks,NA
+display Top Line for Sub_category Ketchup in quarter Q4?,Top Line,NA,Ketchup,NA
+fetch Gross Sales for the Customer Amazon in quarter Q2 to Q4?,Gross Sales,NA,NA,Amazon
+generate Top Line for category Cheese in month Jul?,Top Line,Cheese,NA,NA
+display Max Shipment for category Breakfast in month Feb to Nov?,Max Shipment,Breakfast,NA,NA
+generate Gross Sales for Sub_category Bacon in quarter Q4?,Gross Sales,NA,Bacon,NA
+display Bottom Line for Sub_category Bacon in month Mar to Oct?,Bottom Line,NA,Bacon,NA
+display Gross Sales for category Candy in year 2019?,Gross Sales,Candy,NA,NA
+display Net sales for Sub_category Hot Dogs in month Mar to Sep?,Net sales,NA,Hot Dogs,NA
+get Max Shipment for Sub_category All others in quarter Q1?,Max Shipment,NA,All others,NA
+generate Gross Sales for Sub_category Bacon in quarter Q1 to Q4?,Gross Sales,NA,Bacon,NA
+display Top Line for Sub_category Caramels in year 2019?,Top Line,NA,Caramels,NA
+display Count for the Customer Amazon in quarter Q1 to Q4?,Count,NA,NA,Amazon
+fetch Max Shipment for Sub_category Tea in month Sep?,Max Shipment,NA,Tea,NA
+fetch Top Line for category Sauces in quarter Q2 to Q4?,Top Line,Sauces,NA,NA
+get Gross Sales for category Breakfast in quarter Q4?,Gross Sales,Breakfast,NA,NA
+display Max Shipment for Sub_category Hard in year 2019?,Max Shipment,NA,Hard,NA
+get Net sales for the Customer Dollar General in month Jan?,Net sales,NA,NA,Dollar General
+generate Net sales for category Cheese in year 2019?,Net sales,Cheese,NA,NA
+generate Bottom Line for Sub_category Chocolate in year 2019?,Bottom Line,NA,Chocolate,NA
+get Gross Sales for category Candy in month Jun to Aug?,Gross Sales,Candy,NA,NA
+display Max Shipment for Sub_category Natural Cheese in quarter Q2?,Max Shipment,NA,Natural Cheese,NA
+get Net sales for Sub_category Natural Cheese in month Jun to Aug?,Net sales,NA,Natural Cheese,NA
+display Bottom Line for category Meats in year 2019?,Bottom Line,Meats,NA,NA
+generate Count for category Sauces in month Jan to Dec?,Count,Sauces,NA,NA
+get Gross Sales for the Customer Kroger in quarter Q1?,Gross Sales,NA,NA,Kroger
+get Count for Sub_category Natural Cheese in month Mar to Oct?,Count,NA,Natural Cheese,NA
+get Top Line for the Customer Kroger in year 2019?,Top Line,NA,NA,Kroger
+get Bottom Line for Sub_category Grated in quarter Q2 to Q4?,Bottom Line,NA,Grated,NA
+get Bottom Line for Sub_category Shelf Stable in week Wk2?,Bottom Line,NA,Shelf Stable,NA
+display Count for Sub_category Hot Dogs in year 2019?,Count,NA,Hot Dogs,NA
+generate Max Shipment for category Candy in quarter Q4?,Max Shipment,Candy,NA,NA
+display Max Shipment for the Customer Albertsons/Safeway in quarter Q1 to Q4?,Max Shipment,NA,NA,Albertsons/Safeway
+get Max Shipment for the Customer Dollar General in month Mar?,Max Shipment,NA,NA,Dollar General
+display Bottom Line for category Cheese in week Wk2 to Wk40?,Bottom Line,Cheese,NA,NA
+get Revenue for Sub_category Natural Cheese in week Wk41?,Revenue,NA,Natural Cheese,NA
+fetch Top Line for the Customer Amazon in quarter Q1 to Q4?,Top Line,NA,NA,Amazon
+get Max Shipment for category Breakfast in month Feb?,Max Shipment,Breakfast,NA,NA
+display Revenue for the Customer Amazon in quarter Q1 to Q4?,Revenue,NA,NA,Amazon
+fetch Revenue for the Customer Ahold in week Wk2?,Revenue,NA,NA,Ahold
+generate Bottom Line for Sub_category All others in year 2019?,Bottom Line,NA,All others,NA
